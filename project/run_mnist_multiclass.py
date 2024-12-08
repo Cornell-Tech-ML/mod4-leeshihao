@@ -42,7 +42,7 @@ class Conv2d(minitorch.Module):
 
     def forward(self, input):
         # TODO: Implement for Task 4.5.
-        raise NotImplementedError("Need to implement for Task 4.5")
+        return minitorch.conv2d(input, self.weights.value) + self.bias.value
 
 
 class Network(minitorch.Module):
@@ -68,11 +68,25 @@ class Network(minitorch.Module):
         self.out = None
 
         # TODO: Implement for Task 4.5.
-        raise NotImplementedError("Need to implement for Task 4.5")
+        self.conv1 = Conv2d(1, 4, 3, 3)
+        self.conv2 = Conv2d(4, 8, 3, 3)
+        self.linear1 = Linear(392, 64)
+        self.linear2 = Linear(64, C) # C = 10 defined above
 
     def forward(self, x):
         # TODO: Implement for Task 4.5.
-        raise NotImplementedError("Need to implement for Task 4.5")
+        x = self.conv1.forward(x).relu()
+        self.mid = x
+        x = self.conv2.forward(x).relu()
+        self.out = x
+        # pool
+        x = minitorch.maxpool2d(x, [4, 4])
+        # flatten
+        x = x.view(x.shape[0], 392)
+        x = self.linear1.forward(x).relu()
+        x = minitorch.dropout(x, 0.25)
+        x = self.linear2.forward(x)
+        return minitorch.logsoftmax(x, 1)
 
 
 def make_mnist(start, stop):
@@ -87,8 +101,11 @@ def make_mnist(start, stop):
     return X, ys
 
 
-def default_log_fn(epoch, total_loss, correct, total, losses, model):
-    print(f"Epoch {epoch} loss {total_loss} valid acc {correct}/{total}")
+def default_log_fn(epoch, batch_num, total_loss, train_correct, val_correct, total, losses, model):
+    log_message = f"Epoch {epoch} Batch_num {batch_num} loss {total_loss} train acc {train_correct}/{total} val acc {val_correct}/{total}"
+    print(log_message)
+    with open("mnist.txt", "a") as myfile:
+        myfile.write(log_message + "\n")
 
 
 class ImageTrain:
@@ -139,11 +156,30 @@ class ImageTrain:
                 # Update
                 optim.step()
 
-                if batch_num % 5 == 0:
+                if batch_num % 10 == 0:
                     model.eval()
-                    # Evaluate on 5 held-out batches
-
-                    correct = 0
+                    # Evaluate every 10 batches
+                    train_correct = 0
+                    for train_example_num in range(0, 1 * BATCH, BATCH):
+                        y = minitorch.tensor(
+                            y_train[train_example_num : train_example_num + BATCH],
+                            backend=BACKEND,
+                        )
+                        x = minitorch.tensor(
+                            X_train[train_example_num : train_example_num + BATCH],
+                            backend=BACKEND,
+                        )
+                        out = model.forward(x.view(BATCH, 1, H, W)).view(BATCH, C)
+                        for i in range(BATCH):
+                            m = -1000
+                            ind = -1
+                            for j in range(C):
+                                if out[i, j] > m:
+                                    ind = j
+                                    m = out[i, j]
+                            if y[i, ind] == 1.0:
+                                train_correct += 1
+                    val_correct = 0
                     for val_example_num in range(0, 1 * BATCH, BATCH):
                         y = minitorch.tensor(
                             y_val[val_example_num : val_example_num + BATCH],
@@ -162,8 +198,8 @@ class ImageTrain:
                                     ind = j
                                     m = out[i, j]
                             if y[i, ind] == 1.0:
-                                correct += 1
-                    log_fn(epoch, total_loss, correct, BATCH, losses, model)
+                                val_correct += 1
+                    log_fn(epoch, batch_num, total_loss, train_correct, val_correct, BATCH, losses, model)
 
                     total_loss = 0.0
                     model.train()
@@ -171,4 +207,4 @@ class ImageTrain:
 
 if __name__ == "__main__":
     data_train, data_val = (make_mnist(0, 5000), make_mnist(10000, 10500))
-    ImageTrain().train(data_train, data_val, learning_rate=0.01)
+    ImageTrain().train(data_train, data_val, learning_rate=0.01, max_epochs=50)

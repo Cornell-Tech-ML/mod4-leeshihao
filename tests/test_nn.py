@@ -3,6 +3,7 @@ from hypothesis import given
 
 import minitorch
 from minitorch import Tensor
+import numpy as np
 
 from .strategies import assert_close
 from .tensor_strategies import tensors
@@ -32,7 +33,24 @@ def test_avg(t: Tensor) -> None:
 @given(tensors(shape=(2, 3, 4)))
 def test_max(t: Tensor) -> None:
     # TODO: Implement for Task 4.4.
-    raise NotImplementedError("Need to implement for Task 4.4")
+    """Check forward is correct"""
+    t2 = minitorch.Max.apply(t, t._ensure_tensor(2))
+    for i in range(t.shape[0]):  # Iterate over batch dimension
+        for j in range(t.shape[1]):  # Iterate over channel dimension
+            expected_max = -float("inf")
+            for k in range(t.shape[2]):  # Iterate over height dimension
+                expected_max = max(expected_max, t[i, j, k])
+            assert t2[i, j, 0] == expected_max  # Assert the max value is correct
+
+
+@pytest.mark.task4_4
+def test_max_backwards() -> None:
+    """Check backward is correct"""
+    # Perturb input by adding noise to break ties
+    t = minitorch.zeros((2, 3))
+    noise_array = np.random.normal(loc=0.0, scale=0.1, size=t.shape).tolist()
+    t_perturbed = t + minitorch.tensor(noise_array, backend=t.backend)
+    minitorch.grad_check(minitorch.Max.apply, t_perturbed, t._ensure_tensor(0))
 
 
 @pytest.mark.task4_4
