@@ -1,800 +1,1600 @@
-Epoch 1 Batch_num 0 loss 2.304661812745871 train acc 1/16
-Epoch 1 Batch_num 10 loss 22.981856190143358 train acc 2/16
-Epoch 1 Batch_num 20 loss 22.921019580177543 train acc 3/16
-Epoch 1 Batch_num 30 loss 22.511928504258016 train acc 2/16
-Epoch 1 Batch_num 40 loss 21.71471313089776 train acc 4/16
-Epoch 1 Batch_num 50 loss 19.246749334490296 train acc 6/16
-Epoch 1 Batch_num 60 loss 17.51584293922705 train acc 10/16
-Epoch 1 Batch_num 70 loss 15.10703428820749 train acc 10/16
-Epoch 1 Batch_num 80 loss 12.210225296395022 train acc 11/16
-Epoch 1 Batch_num 90 loss 10.777482821264671 train acc 10/16
-Epoch 1 Batch_num 100 loss 8.633458922386502 train acc 9/16
-Epoch 1 Batch_num 110 loss 5.144359145661587 train acc 12/16
-Epoch 1 Batch_num 120 loss 7.335188227943499 train acc 13/16
-Epoch 1 Batch_num 130 loss 8.271493468241383 train acc 13/16
-Epoch 1 Batch_num 140 loss 5.796937439467566 train acc 11/16
-Epoch 1 Batch_num 150 loss 8.297765288970469 train acc 11/16
-Epoch 1 Batch_num 160 loss 6.502148510502522 train acc 12/16
-Epoch 1 Batch_num 170 loss 7.384924427685762 train acc 10/16
-Epoch 1 Batch_num 180 loss 5.031384074398896 train acc 13/16
-Epoch 1 Batch_num 190 loss 7.358415759698619 train acc 12/16
-Epoch 1 Batch_num 200 loss 4.949322484471581 train acc 14/16
-Epoch 1 Batch_num 210 loss 5.706609866147945 train acc 13/16
-Epoch 1 Batch_num 220 loss 6.19119604852045 train acc 11/16
-Epoch 1 Batch_num 230 loss 4.00374743572374 train acc 15/16
-Epoch 1 Batch_num 240 loss 4.98877864092088 train acc 14/16
-Epoch 1 Batch_num 250 loss 3.7811383161822496 train acc 13/16
-Epoch 1 Batch_num 260 loss 4.0511412022983295 train acc 14/16
-Epoch 1 Batch_num 270 loss 3.7966383336889242 train acc 14/16
-Epoch 1 Batch_num 280 loss 3.282243437360166 train acc 16/16
-Epoch 1 Batch_num 290 loss 6.369763657181271 train acc 13/16
-Epoch 1 Batch_num 300 loss 4.284795659928612 train acc 13/16
-Epoch 1 Batch_num 310 loss 5.098303505799036 train acc 12/16
-Epoch 2 Batch_num 0 loss 0.2787295809286117 train acc 15/16
-Epoch 2 Batch_num 10 loss 3.8358676589193927 train acc 15/16
-Epoch 2 Batch_num 20 loss 3.390565561368455 train acc 13/16
-Epoch 2 Batch_num 30 loss 4.514516085961628 train acc 13/16
-Epoch 2 Batch_num 40 loss 5.065281218457496 train acc 14/16
-Epoch 2 Batch_num 50 loss 3.201792147135124 train acc 15/16
-Epoch 2 Batch_num 60 loss 5.658297926324465 train acc 14/16
-Epoch 2 Batch_num 70 loss 4.577454461064093 train acc 14/16
-Epoch 2 Batch_num 80 loss 3.4759949066534297 train acc 14/16
-Epoch 2 Batch_num 90 loss 3.9353003040303203 train acc 12/16
-Epoch 2 Batch_num 100 loss 2.5437483726420185 train acc 12/16
-Epoch 2 Batch_num 110 loss 2.0597547888083305 train acc 16/16
-Epoch 2 Batch_num 120 loss 2.9512233116144255 train acc 14/16
-Epoch 2 Batch_num 130 loss 2.823637682387534 train acc 15/16
-Epoch 2 Batch_num 140 loss 2.372687553693285 train acc 15/16
-Epoch 2 Batch_num 150 loss 2.037065711068993 train acc 15/16
-Epoch 2 Batch_num 160 loss 3.1146062643317114 train acc 14/16
-Epoch 2 Batch_num 170 loss 3.4430095818646542 train acc 16/16
-Epoch 2 Batch_num 180 loss 2.9472420839444005 train acc 13/16
-Epoch 2 Batch_num 190 loss 2.7391640841947233 train acc 13/16
-Epoch 2 Batch_num 200 loss 2.9451245539677826 train acc 13/16
-Epoch 2 Batch_num 210 loss 2.820462620015719 train acc 15/16
-Epoch 2 Batch_num 220 loss 3.568242746692331 train acc 15/16
-Epoch 2 Batch_num 230 loss 2.1461407668591717 train acc 14/16
-Epoch 2 Batch_num 240 loss 2.95881100229812 train acc 13/16
-Epoch 2 Batch_num 250 loss 1.9695340977463371 train acc 13/16
-Epoch 2 Batch_num 260 loss 2.237641645050687 train acc 16/16
-Epoch 2 Batch_num 270 loss 3.314238495190648 train acc 14/16
-Epoch 2 Batch_num 280 loss 1.4915071692165611 train acc 16/16
-Epoch 2 Batch_num 290 loss 3.1394365631364005 train acc 14/16
-Epoch 2 Batch_num 300 loss 2.628204727344131 train acc 15/16
-Epoch 2 Batch_num 310 loss 2.819635453051676 train acc 15/16
-Epoch 3 Batch_num 0 loss 0.06265022752379001 train acc 16/16
-Epoch 3 Batch_num 10 loss 2.36448826526977 train acc 16/16
-Epoch 3 Batch_num 20 loss 2.43185216082372 train acc 14/16
-Epoch 3 Batch_num 30 loss 2.7078985219524365 train acc 14/16
-Epoch 3 Batch_num 40 loss 3.056266030459273 train acc 16/16
-Epoch 3 Batch_num 50 loss 1.759343654063352 train acc 14/16
-Epoch 3 Batch_num 60 loss 3.902928910575599 train acc 16/16
-Epoch 3 Batch_num 70 loss 3.349093160232913 train acc 16/16
-Epoch 3 Batch_num 80 loss 1.7969196894012118 train acc 16/16
-Epoch 3 Batch_num 90 loss 2.8698667847595103 train acc 15/16
-Epoch 3 Batch_num 100 loss 2.3673633096947846 train acc 13/16
-Epoch 3 Batch_num 110 loss 2.1979813703224647 train acc 13/16
-Epoch 3 Batch_num 120 loss 1.7210912663507019 train acc 13/16
-Epoch 3 Batch_num 130 loss 1.7783490472408328 train acc 15/16
-Epoch 3 Batch_num 140 loss 1.109429200810424 train acc 16/16
-Epoch 3 Batch_num 150 loss 1.418720724522623 train acc 15/16
-Epoch 3 Batch_num 160 loss 1.4536504760479556 train acc 13/16
-Epoch 3 Batch_num 170 loss 2.0808792422856275 train acc 14/16
-Epoch 3 Batch_num 180 loss 2.3779861608521347 train acc 14/16
-Epoch 3 Batch_num 190 loss 2.038094390433921 train acc 14/16
-Epoch 3 Batch_num 200 loss 1.5897997240412147 train acc 15/16
-Epoch 3 Batch_num 210 loss 2.821697956098884 train acc 14/16
-Epoch 3 Batch_num 220 loss 2.242953950383989 train acc 16/16
-Epoch 3 Batch_num 230 loss 1.3097857648827937 train acc 15/16
-Epoch 3 Batch_num 240 loss 3.1773601746498237 train acc 15/16
-Epoch 3 Batch_num 250 loss 2.23348275278158 train acc 14/16
-Epoch 3 Batch_num 260 loss 1.8362480913865182 train acc 15/16
-Epoch 3 Batch_num 270 loss 1.9959438983736226 train acc 15/16
-Epoch 3 Batch_num 280 loss 1.3953183280409909 train acc 13/16
-Epoch 3 Batch_num 290 loss 1.6786514399220336 train acc 15/16
-Epoch 3 Batch_num 300 loss 1.7735902334218376 train acc 15/16
-Epoch 3 Batch_num 310 loss 2.315210608923499 train acc 14/16
-Epoch 4 Batch_num 0 loss 0.022904417671166244 train acc 14/16
-Epoch 4 Batch_num 10 loss 2.352307346603097 train acc 15/16
-Epoch 4 Batch_num 20 loss 1.121814318836871 train acc 15/16
-Epoch 4 Batch_num 30 loss 2.402954721661043 train acc 15/16
-Epoch 4 Batch_num 40 loss 1.897456016851204 train acc 13/16
-Epoch 4 Batch_num 50 loss 1.382577590148316 train acc 15/16
-Epoch 4 Batch_num 60 loss 3.959286913122344 train acc 15/16
-Epoch 4 Batch_num 70 loss 2.642354690895563 train acc 14/16
-Epoch 4 Batch_num 80 loss 2.328064410431229 train acc 15/16
-Epoch 4 Batch_num 90 loss 2.56241124534666 train acc 16/16
-Epoch 4 Batch_num 100 loss 1.4052070917136508 train acc 14/16
-Epoch 4 Batch_num 110 loss 0.9974151148377057 train acc 15/16
-Epoch 4 Batch_num 120 loss 1.8941888939341576 train acc 14/16
-Epoch 4 Batch_num 130 loss 1.6491294058913297 train acc 15/16
-Epoch 4 Batch_num 140 loss 1.7060309727682044 train acc 15/16
-Epoch 4 Batch_num 150 loss 0.9467739912931652 train acc 14/16
-Epoch 4 Batch_num 160 loss 1.1146526506011971 train acc 16/16
-Epoch 4 Batch_num 170 loss 2.105861451020747 train acc 16/16
-Epoch 4 Batch_num 180 loss 2.631246339007749 train acc 14/16
-Epoch 4 Batch_num 190 loss 1.4399991441747293 train acc 15/16
-Epoch 4 Batch_num 200 loss 1.8662390668491657 train acc 14/16
-Epoch 4 Batch_num 210 loss 1.25091377298692 train acc 14/16
-Epoch 4 Batch_num 220 loss 1.8360151519906838 train acc 13/16
-Epoch 4 Batch_num 230 loss 1.308441596118488 train acc 15/16
-Epoch 4 Batch_num 240 loss 1.6449947651747983 train acc 14/16
-Epoch 4 Batch_num 250 loss 1.4807426966882997 train acc 15/16
-Epoch 4 Batch_num 260 loss 1.9794727913407426 train acc 14/16
-Epoch 4 Batch_num 270 loss 1.6812311983818997 train acc 13/16
-Epoch 4 Batch_num 280 loss 1.121617828560659 train acc 15/16
-Epoch 4 Batch_num 290 loss 1.2733714568229548 train acc 15/16
-Epoch 4 Batch_num 300 loss 1.4852330264702605 train acc 16/16
-Epoch 4 Batch_num 310 loss 1.9529543115376802 train acc 15/16
-Epoch 5 Batch_num 0 loss 0.018429117540996187 train acc 15/16
-Epoch 5 Batch_num 10 loss 1.394204480163335 train acc 16/16
-Epoch 5 Batch_num 20 loss 1.3650323403228284 train acc 14/16
-Epoch 5 Batch_num 30 loss 2.186764494602663 train acc 15/16
-Epoch 5 Batch_num 40 loss 1.9206897513480738 train acc 15/16
-Epoch 5 Batch_num 50 loss 1.2392441205070597 train acc 15/16
-Epoch 5 Batch_num 60 loss 3.414709773411275 train acc 16/16
-Epoch 5 Batch_num 70 loss 2.1168635917829546 train acc 16/16
-Epoch 5 Batch_num 80 loss 2.4364074429298155 train acc 15/16
-Epoch 5 Batch_num 90 loss 1.8767793534279378 train acc 15/16
-Epoch 5 Batch_num 100 loss 1.9701278705274756 train acc 15/16
-Epoch 5 Batch_num 110 loss 1.3829644956167657 train acc 16/16
-Epoch 5 Batch_num 120 loss 1.0261050984897313 train acc 15/16
-Epoch 5 Batch_num 130 loss 1.0892004158627406 train acc 16/16
-Epoch 5 Batch_num 140 loss 1.5840599694976194 train acc 15/16
-Epoch 5 Batch_num 150 loss 0.6431735376914736 train acc 16/16
-Epoch 5 Batch_num 160 loss 1.2282436235714993 train acc 15/16
-Epoch 5 Batch_num 170 loss 0.9254533090716581 train acc 14/16
-Epoch 5 Batch_num 180 loss 1.7103113097650822 train acc 15/16
-Epoch 5 Batch_num 190 loss 2.0284633740395224 train acc 14/16
-Epoch 5 Batch_num 200 loss 0.9458379322332864 train acc 16/16
-Epoch 5 Batch_num 210 loss 1.2517873440561924 train acc 16/16
-Epoch 5 Batch_num 220 loss 1.624580141877953 train acc 15/16
-Epoch 5 Batch_num 230 loss 0.9861727016543618 train acc 15/16
-Epoch 5 Batch_num 240 loss 1.8927315478742242 train acc 15/16
-Epoch 5 Batch_num 250 loss 1.135132541962263 train acc 16/16
-Epoch 5 Batch_num 260 loss 1.1894567255896455 train acc 14/16
-Epoch 5 Batch_num 270 loss 1.225596206346623 train acc 14/16
-Epoch 5 Batch_num 280 loss 1.2927818196386023 train acc 16/16
-Epoch 5 Batch_num 290 loss 1.5539976131295654 train acc 14/16
-Epoch 5 Batch_num 300 loss 0.8787812255052327 train acc 15/16
-Epoch 5 Batch_num 310 loss 1.2141583985030096 train acc 16/16
-Epoch 6 Batch_num 0 loss 0.007729271750128386 train acc 16/16
-Epoch 6 Batch_num 10 loss 0.8477429535432408 train acc 16/16
-Epoch 6 Batch_num 20 loss 0.9986435940471405 train acc 16/16
-Epoch 6 Batch_num 30 loss 1.3859685260290902 train acc 14/16
-Epoch 6 Batch_num 40 loss 1.495112286806403 train acc 14/16
-Epoch 6 Batch_num 50 loss 1.4498325261436844 train acc 14/16
-Epoch 6 Batch_num 60 loss 3.27754606790987 train acc 14/16
-Epoch 6 Batch_num 70 loss 1.5498247396998104 train acc 15/16
-Epoch 6 Batch_num 80 loss 1.4473490305260066 train acc 15/16
-Epoch 6 Batch_num 90 loss 1.8922577590704397 train acc 13/16
-Epoch 6 Batch_num 100 loss 1.2973515925005807 train acc 14/16
-Epoch 6 Batch_num 110 loss 1.3561195693343036 train acc 13/16
-Epoch 6 Batch_num 120 loss 1.1739100659772304 train acc 14/16
-Epoch 6 Batch_num 130 loss 1.731787347728621 train acc 15/16
-Epoch 6 Batch_num 140 loss 1.5891241836929155 train acc 15/16
-Epoch 6 Batch_num 150 loss 0.8817311411282533 train acc 15/16
-Epoch 6 Batch_num 160 loss 0.6243361408612371 train acc 15/16
-Epoch 6 Batch_num 170 loss 1.1938767805989134 train acc 15/16
-Epoch 6 Batch_num 180 loss 1.1813987222006797 train acc 16/16
-Epoch 6 Batch_num 190 loss 1.0348808233503841 train acc 15/16
-Epoch 6 Batch_num 200 loss 0.3836223457923701 train acc 16/16
-Epoch 6 Batch_num 210 loss 1.3903134125197767 train acc 15/16
-Epoch 6 Batch_num 220 loss 0.9000650622986254 train acc 14/16
-Epoch 6 Batch_num 230 loss 0.9343171520363764 train acc 14/16
-Epoch 6 Batch_num 240 loss 2.079690476177658 train acc 15/16
-Epoch 6 Batch_num 250 loss 1.1329144089117906 train acc 14/16
-Epoch 6 Batch_num 260 loss 0.9767225980226872 train acc 15/16
-Epoch 6 Batch_num 270 loss 1.1664066677027438 train acc 15/16
-Epoch 6 Batch_num 280 loss 0.6869777372940519 train acc 15/16
-Epoch 6 Batch_num 290 loss 1.550169517958154 train acc 15/16
-Epoch 6 Batch_num 300 loss 1.1364035885721764 train acc 15/16
-Epoch 6 Batch_num 310 loss 1.1697193672641986 train acc 15/16
-Epoch 7 Batch_num 0 loss 0.003929948523467841 train acc 15/16
-Epoch 7 Batch_num 10 loss 1.7163352034647428 train acc 14/16
-Epoch 7 Batch_num 20 loss 1.0695259697836477 train acc 15/16
-Epoch 7 Batch_num 30 loss 0.8601969107376881 train acc 16/16
-Epoch 7 Batch_num 40 loss 1.208908387467225 train acc 14/16
-Epoch 7 Batch_num 50 loss 1.2050577272996978 train acc 16/16
-Epoch 7 Batch_num 60 loss 2.4829298322650484 train acc 15/16
-Epoch 7 Batch_num 70 loss 1.5261173257873057 train acc 15/16
-Epoch 7 Batch_num 80 loss 1.395949393377766 train acc 15/16
-Epoch 7 Batch_num 90 loss 2.128687106578504 train acc 16/16
-Epoch 7 Batch_num 100 loss 1.0938193438532406 train acc 14/16
-Epoch 7 Batch_num 110 loss 0.7921462283163396 train acc 15/16
-Epoch 7 Batch_num 120 loss 0.6285967504579129 train acc 15/16
-Epoch 7 Batch_num 130 loss 0.9352146898889688 train acc 16/16
-Epoch 7 Batch_num 140 loss 1.3714433433998916 train acc 15/16
-Epoch 7 Batch_num 150 loss 0.8062997510669996 train acc 15/16
-Epoch 7 Batch_num 160 loss 0.3175145145166335 train acc 16/16
-Epoch 7 Batch_num 170 loss 0.9240502456546091 train acc 16/16
-Epoch 7 Batch_num 180 loss 1.2940467712290353 train acc 16/16
-Epoch 7 Batch_num 190 loss 1.177939087981479 train acc 16/16
-Epoch 7 Batch_num 200 loss 0.892961143099524 train acc 15/16
-Epoch 7 Batch_num 210 loss 1.2751059360987917 train acc 14/16
-Epoch 7 Batch_num 220 loss 0.5692261692371461 train acc 16/16
-Epoch 7 Batch_num 230 loss 1.0674724004321212 train acc 16/16
-Epoch 7 Batch_num 240 loss 1.751674162984275 train acc 16/16
-Epoch 7 Batch_num 250 loss 1.182838633583072 train acc 16/16
-Epoch 7 Batch_num 260 loss 1.0028335768610144 train acc 16/16
-Epoch 7 Batch_num 270 loss 0.9521404318859259 train acc 14/16
-Epoch 7 Batch_num 280 loss 1.1129806625877718 train acc 14/16
-Epoch 7 Batch_num 290 loss 0.7857964025557941 train acc 15/16
-Epoch 7 Batch_num 300 loss 0.6743135353175866 train acc 14/16
-Epoch 7 Batch_num 310 loss 1.483303075484043 train acc 15/16
-Epoch 8 Batch_num 0 loss 0.012338002934011993 train acc 16/16
-Epoch 8 Batch_num 10 loss 1.3276313240711577 train acc 16/16
-Epoch 8 Batch_num 20 loss 0.5946300643729278 train acc 16/16
-Epoch 8 Batch_num 30 loss 0.7479421818453826 train acc 15/16
-Epoch 8 Batch_num 40 loss 2.218391603184072 train acc 15/16
-Epoch 8 Batch_num 50 loss 1.1714645607081624 train acc 15/16
-Epoch 8 Batch_num 60 loss 2.0229952924150396 train acc 13/16
-Epoch 8 Batch_num 70 loss 1.2080650846611638 train acc 16/16
-Epoch 8 Batch_num 80 loss 1.4245120464041534 train acc 15/16
-Epoch 8 Batch_num 90 loss 1.6430291093141758 train acc 16/16
-Epoch 8 Batch_num 100 loss 0.8606136399325727 train acc 14/16
-Epoch 8 Batch_num 110 loss 0.8964066491921527 train acc 15/16
-Epoch 8 Batch_num 120 loss 0.9549239317350918 train acc 16/16
-Epoch 8 Batch_num 130 loss 0.659486200431721 train acc 16/16
-Epoch 8 Batch_num 140 loss 0.43405584150522697 train acc 14/16
-Epoch 8 Batch_num 150 loss 1.41086630927094 train acc 15/16
-Epoch 8 Batch_num 160 loss 0.5115399336953943 train acc 15/16
-Epoch 8 Batch_num 170 loss 1.8408334206562802 train acc 15/16
-Epoch 8 Batch_num 180 loss 1.5576272569945073 train acc 16/16
-Epoch 8 Batch_num 190 loss 0.7444160971386251 train acc 15/16
-Epoch 8 Batch_num 200 loss 1.111851445349167 train acc 16/16
-Epoch 8 Batch_num 210 loss 0.9680641953263923 train acc 15/16
-Epoch 8 Batch_num 220 loss 1.5780401791041998 train acc 14/16
-Epoch 8 Batch_num 230 loss 0.9575810587915431 train acc 15/16
-Epoch 8 Batch_num 240 loss 1.153254500981312 train acc 15/16
-Epoch 8 Batch_num 250 loss 0.7631676805739207 train acc 16/16
-Epoch 8 Batch_num 260 loss 0.5878618469024817 train acc 14/16
-Epoch 8 Batch_num 270 loss 0.8072843724348738 train acc 13/16
-Epoch 8 Batch_num 280 loss 0.956848098227312 train acc 15/16
-Epoch 8 Batch_num 290 loss 0.8135571532570418 train acc 14/16
-Epoch 8 Batch_num 300 loss 0.709305256366974 train acc 15/16
-Epoch 8 Batch_num 310 loss 0.899026324981088 train acc 14/16
-Epoch 9 Batch_num 0 loss 0.005587383412872682 train acc 14/16
-Epoch 9 Batch_num 10 loss 1.2787643162586253 train acc 16/16
-Epoch 9 Batch_num 20 loss 0.4052042817545503 train acc 14/16
-Epoch 9 Batch_num 30 loss 0.9309671902464436 train acc 16/16
-Epoch 9 Batch_num 40 loss 0.4624381948625081 train acc 15/16
-Epoch 9 Batch_num 50 loss 1.181141069860173 train acc 14/16
-Epoch 9 Batch_num 60 loss 1.828173459760476 train acc 16/16
-Epoch 9 Batch_num 70 loss 1.3740728044941646 train acc 15/16
-Epoch 9 Batch_num 80 loss 0.9971113563759909 train acc 16/16
-Epoch 9 Batch_num 90 loss 2.23444527647326 train acc 15/16
-Epoch 9 Batch_num 100 loss 1.043469795852924 train acc 14/16
-Epoch 9 Batch_num 110 loss 0.515555538015652 train acc 14/16
-Epoch 9 Batch_num 120 loss 1.2214614398358916 train acc 15/16
-Epoch 9 Batch_num 130 loss 1.084152038923123 train acc 16/16
-Epoch 9 Batch_num 140 loss 0.8831415154994278 train acc 15/16
-Epoch 9 Batch_num 150 loss 0.5940575068961164 train acc 15/16
-Epoch 9 Batch_num 160 loss 0.5140912278684442 train acc 16/16
-Epoch 9 Batch_num 170 loss 0.679886457873916 train acc 15/16
-Epoch 9 Batch_num 180 loss 1.079643416217787 train acc 16/16
-Epoch 9 Batch_num 190 loss 0.6972125651979472 train acc 16/16
-Epoch 9 Batch_num 200 loss 0.39666867399840633 train acc 15/16
-Epoch 9 Batch_num 210 loss 1.5319229934278102 train acc 16/16
-Epoch 9 Batch_num 220 loss 0.9022416325280844 train acc 16/16
-Epoch 9 Batch_num 230 loss 1.1688673626555368 train acc 16/16
-Epoch 9 Batch_num 240 loss 1.1124266089539836 train acc 15/16
-Epoch 9 Batch_num 250 loss 0.582891947920027 train acc 16/16
-Epoch 9 Batch_num 260 loss 1.3276607145615225 train acc 14/16
-Epoch 9 Batch_num 270 loss 0.5628583188770455 train acc 15/16
-Epoch 9 Batch_num 280 loss 0.7703121347085482 train acc 13/16
-Epoch 9 Batch_num 290 loss 1.0295721596878935 train acc 14/16
-Epoch 9 Batch_num 300 loss 0.921409791516411 train acc 14/16
-Epoch 9 Batch_num 310 loss 1.1478190628742706 train acc 16/16
-Epoch 10 Batch_num 0 loss 0.0005094856595246333 train acc 14/16
-Epoch 10 Batch_num 10 loss 1.1137083262931626 train acc 15/16
-Epoch 10 Batch_num 20 loss 0.29373384497457 train acc 15/16
-Epoch 10 Batch_num 30 loss 1.457087960778407 train acc 16/16
-Epoch 10 Batch_num 40 loss 1.3040798065741313 train acc 15/16
-Epoch 10 Batch_num 50 loss 0.42285494064842655 train acc 16/16
-Epoch 10 Batch_num 60 loss 2.1990113610764355 train acc 13/16
-Epoch 10 Batch_num 70 loss 0.9050301752998335 train acc 15/16
-Epoch 10 Batch_num 80 loss 0.8492269735635509 train acc 16/16
-Epoch 10 Batch_num 90 loss 1.6352718041992378 train acc 15/16
-Epoch 10 Batch_num 100 loss 0.8134354265510444 train acc 13/16
-Epoch 10 Batch_num 110 loss 0.5187152627046772 train acc 14/16
-Epoch 10 Batch_num 120 loss 1.0636863532678538 train acc 14/16
-Epoch 10 Batch_num 130 loss 0.6055898239344135 train acc 16/16
-Epoch 10 Batch_num 140 loss 1.0383351791745485 train acc 16/16
-Epoch 10 Batch_num 150 loss 0.4511840678553646 train acc 15/16
-Epoch 10 Batch_num 160 loss 0.4255168505009811 train acc 15/16
-Epoch 10 Batch_num 170 loss 0.6262530263540663 train acc 16/16
-Epoch 10 Batch_num 180 loss 0.46926863818754255 train acc 15/16
-Epoch 10 Batch_num 190 loss 1.4391356636052766 train acc 14/16
-Epoch 10 Batch_num 200 loss 0.9156396805138909 train acc 16/16
-Epoch 10 Batch_num 210 loss 0.2723807689408553 train acc 15/16
-Epoch 10 Batch_num 220 loss 0.8658063957239779 train acc 15/16
-Epoch 10 Batch_num 230 loss 1.4507140911358878 train acc 15/16
-Epoch 10 Batch_num 240 loss 0.8469433302198133 train acc 16/16
-Epoch 10 Batch_num 250 loss 0.926069720047377 train acc 16/16
-Epoch 10 Batch_num 260 loss 0.3832148781486175 train acc 15/16
-Epoch 10 Batch_num 270 loss 0.9832933007772756 train acc 16/16
-Epoch 10 Batch_num 280 loss 1.1027272877092322 train acc 15/16
-Epoch 10 Batch_num 290 loss 0.6989360642104723 train acc 14/16
-Epoch 10 Batch_num 300 loss 0.5278860922053392 train acc 16/16
-Epoch 10 Batch_num 310 loss 0.612750215203702 train acc 15/16
-Epoch 11 Batch_num 0 loss 0.009272899146561153 train acc 16/16
-Epoch 11 Batch_num 10 loss 1.7786890600778162 train acc 14/16
-Epoch 11 Batch_num 20 loss 0.673288057520302 train acc 15/16
-Epoch 11 Batch_num 30 loss 0.746385402588707 train acc 14/16
-Epoch 11 Batch_num 40 loss 0.6871207424595395 train acc 15/16
-Epoch 11 Batch_num 50 loss 1.2079394075418168 train acc 16/16
-Epoch 11 Batch_num 60 loss 1.7449686653217535 train acc 16/16
-Epoch 11 Batch_num 70 loss 1.1840661628295002 train acc 15/16
-Epoch 11 Batch_num 80 loss 0.6293304473263331 train acc 15/16
-Epoch 11 Batch_num 90 loss 0.7551568128796384 train acc 16/16
-Epoch 11 Batch_num 100 loss 0.6242062541166548 train acc 14/16
-Epoch 11 Batch_num 110 loss 0.6778108859650378 train acc 14/16
-Epoch 11 Batch_num 120 loss 0.5309048778104364 train acc 15/16
-Epoch 11 Batch_num 130 loss 0.4911280712533743 train acc 15/16
-Epoch 11 Batch_num 140 loss 0.3937637818211956 train acc 13/16
-Epoch 11 Batch_num 150 loss 0.3397235705766604 train acc 13/16
-Epoch 11 Batch_num 160 loss 0.4921630838478969 train acc 15/16
-Epoch 11 Batch_num 170 loss 0.6733829590039345 train acc 14/16
-Epoch 11 Batch_num 180 loss 0.7287335636585862 train acc 16/16
-Epoch 11 Batch_num 190 loss 0.24102273425827841 train acc 16/16
-Epoch 11 Batch_num 200 loss 0.5776788780641771 train acc 14/16
-Epoch 11 Batch_num 210 loss 0.413520289679355 train acc 16/16
-Epoch 11 Batch_num 220 loss 0.4644489816680416 train acc 16/16
-Epoch 11 Batch_num 230 loss 0.6705404942941542 train acc 14/16
-Epoch 11 Batch_num 240 loss 0.8410966007579124 train acc 14/16
-Epoch 11 Batch_num 250 loss 0.13698637509442202 train acc 14/16
-Epoch 11 Batch_num 260 loss 1.2135473106666248 train acc 15/16
-Epoch 11 Batch_num 270 loss 0.7138059871263327 train acc 14/16
-Epoch 11 Batch_num 280 loss 0.27715047758065126 train acc 15/16
-Epoch 11 Batch_num 290 loss 0.7412222015430178 train acc 16/16
-Epoch 11 Batch_num 300 loss 1.1476227226472988 train acc 16/16
-Epoch 11 Batch_num 310 loss 1.7331219349352216 train acc 13/16
-Epoch 12 Batch_num 0 loss 0.014215249442436628 train acc 12/16
-Epoch 12 Batch_num 10 loss 0.5884547886183027 train acc 15/16
-Epoch 12 Batch_num 20 loss 0.3016516508916306 train acc 16/16
-Epoch 12 Batch_num 30 loss 0.730821554798938 train acc 15/16
-Epoch 12 Batch_num 40 loss 0.5430797314476732 train acc 16/16
-Epoch 12 Batch_num 50 loss 0.2556812783096376 train acc 16/16
-Epoch 12 Batch_num 60 loss 1.177734817616697 train acc 14/16
-Epoch 12 Batch_num 70 loss 0.6867598440819366 train acc 16/16
-Epoch 12 Batch_num 80 loss 0.6489739229965752 train acc 15/16
-Epoch 12 Batch_num 90 loss 1.1327996877696456 train acc 16/16
-Epoch 12 Batch_num 100 loss 0.9970836720886307 train acc 14/16
-Epoch 12 Batch_num 110 loss 0.44705846824308904 train acc 16/16
-Epoch 12 Batch_num 120 loss 0.5272376829651617 train acc 15/16
-Epoch 12 Batch_num 130 loss 0.8513184773701337 train acc 15/16
-Epoch 12 Batch_num 140 loss 0.6129817061490679 train acc 15/16
-Epoch 12 Batch_num 150 loss 1.0777201253356925 train acc 16/16
-Epoch 12 Batch_num 160 loss 1.167115538577491 train acc 16/16
-Epoch 12 Batch_num 170 loss 0.9424536114886621 train acc 16/16
-Epoch 12 Batch_num 180 loss 1.2630019585533212 train acc 16/16
-Epoch 12 Batch_num 190 loss 0.217682854761079 train acc 16/16
-Epoch 12 Batch_num 200 loss 0.36936786483803125 train acc 15/16
-Epoch 12 Batch_num 210 loss 0.3504572982507218 train acc 16/16
-Epoch 12 Batch_num 220 loss 0.29536189196346846 train acc 16/16
-Epoch 12 Batch_num 230 loss 0.5885834421189065 train acc 16/16
-Epoch 12 Batch_num 240 loss 0.8411761094931942 train acc 16/16
-Epoch 12 Batch_num 250 loss 0.5396128989666569 train acc 16/16
-Epoch 12 Batch_num 260 loss 0.5915590302996236 train acc 16/16
-Epoch 12 Batch_num 270 loss 0.494466026676753 train acc 15/16
-Epoch 12 Batch_num 280 loss 0.4301698880283196 train acc 15/16
-Epoch 12 Batch_num 290 loss 0.6834025618887991 train acc 13/16
-Epoch 12 Batch_num 300 loss 1.4081067004444257 train acc 15/16
-Epoch 12 Batch_num 310 loss 1.086253135272333 train acc 16/16
-Epoch 13 Batch_num 0 loss 0.03276960214955377 train acc 16/16
-Epoch 13 Batch_num 10 loss 0.8493909393321784 train acc 15/16
-Epoch 13 Batch_num 20 loss 0.7092400782327619 train acc 16/16
-Epoch 13 Batch_num 30 loss 0.9518153734771277 train acc 12/16
-Epoch 13 Batch_num 40 loss 1.0059382823868104 train acc 15/16
-Epoch 13 Batch_num 50 loss 0.3539136086725492 train acc 16/16
-Epoch 13 Batch_num 60 loss 0.7258800949250088 train acc 14/16
-Epoch 13 Batch_num 70 loss 0.8124905670180294 train acc 15/16
-Epoch 13 Batch_num 80 loss 1.2065859166162016 train acc 14/16
-Epoch 13 Batch_num 90 loss 0.33630789448942716 train acc 14/16
-Epoch 13 Batch_num 100 loss 0.5920002512782776 train acc 13/16
-Epoch 13 Batch_num 110 loss 0.394258668539939 train acc 14/16
-Epoch 13 Batch_num 120 loss 0.7912554414216588 train acc 15/16
-Epoch 13 Batch_num 130 loss 0.9053361963158827 train acc 15/16
-Epoch 13 Batch_num 140 loss 0.27267006899855595 train acc 16/16
-Epoch 13 Batch_num 150 loss 0.3438966602136465 train acc 16/16
-Epoch 13 Batch_num 160 loss 1.6061837376139314 train acc 14/16
-Epoch 13 Batch_num 170 loss 0.542544626063181 train acc 15/16
-Epoch 13 Batch_num 180 loss 0.8864731184657781 train acc 16/16
-Epoch 13 Batch_num 190 loss 0.8665299951554379 train acc 16/16
-Epoch 13 Batch_num 200 loss 0.5050159937623668 train acc 16/16
-Epoch 13 Batch_num 210 loss 0.4450125884630952 train acc 16/16
-Epoch 13 Batch_num 220 loss 0.8124923450230226 train acc 16/16
-Epoch 13 Batch_num 230 loss 1.1325919360063388 train acc 16/16
-Epoch 13 Batch_num 240 loss 1.1744082011995556 train acc 16/16
-Epoch 13 Batch_num 250 loss 0.3207122855231379 train acc 16/16
-Epoch 13 Batch_num 260 loss 0.9700771010491507 train acc 16/16
-Epoch 13 Batch_num 270 loss 0.698442513785626 train acc 14/16
-Epoch 13 Batch_num 280 loss 0.3860597290150509 train acc 14/16
-Epoch 13 Batch_num 290 loss 0.8543052485260973 train acc 16/16
-Epoch 13 Batch_num 300 loss 1.0495719176207856 train acc 16/16
-Epoch 13 Batch_num 310 loss 1.0065280493538715 train acc 16/16
-Epoch 14 Batch_num 0 loss 0.015101791599315184 train acc 16/16
-Epoch 14 Batch_num 10 loss 0.7139299665087648 train acc 15/16
-Epoch 14 Batch_num 20 loss 0.6210913638731375 train acc 16/16
-Epoch 14 Batch_num 30 loss 0.9257515862705203 train acc 16/16
-Epoch 14 Batch_num 40 loss 0.7525605998444947 train acc 15/16
-Epoch 14 Batch_num 50 loss 0.5119390565110309 train acc 16/16
-Epoch 14 Batch_num 60 loss 1.037041599867459 train acc 14/16
-Epoch 14 Batch_num 70 loss 0.34603194165777934 train acc 16/16
-Epoch 14 Batch_num 80 loss 0.35625177842127165 train acc 15/16
-Epoch 14 Batch_num 90 loss 0.8849452920440795 train acc 15/16
-Epoch 14 Batch_num 100 loss 0.544141217699682 train acc 13/16
-Epoch 14 Batch_num 110 loss 0.497818367365636 train acc 13/16
-Epoch 14 Batch_num 120 loss 0.2903548903904396 train acc 13/16
-Epoch 14 Batch_num 130 loss 0.7217558524909208 train acc 15/16
-Epoch 14 Batch_num 140 loss 0.9486834605115942 train acc 16/16
-Epoch 14 Batch_num 150 loss 0.1963464662572711 train acc 14/16
-Epoch 14 Batch_num 160 loss 0.5450597322195454 train acc 15/16
-Epoch 14 Batch_num 170 loss 0.4709837618245918 train acc 16/16
-Epoch 14 Batch_num 180 loss 1.092972534806409 train acc 16/16
-Epoch 14 Batch_num 190 loss 0.4468700745303275 train acc 15/16
-Epoch 14 Batch_num 200 loss 0.4912664130786421 train acc 16/16
-Epoch 14 Batch_num 210 loss 0.43430489448605875 train acc 16/16
-Epoch 14 Batch_num 220 loss 1.1253187846474013 train acc 16/16
-Epoch 14 Batch_num 230 loss 0.48625767832944466 train acc 16/16
-Epoch 14 Batch_num 240 loss 1.4406638133172194 train acc 16/16
-Epoch 14 Batch_num 250 loss 1.560164051446264 train acc 15/16
-Epoch 14 Batch_num 260 loss 0.4957644714953974 train acc 13/16
-Epoch 14 Batch_num 270 loss 0.635932335585626 train acc 16/16
-Epoch 14 Batch_num 280 loss 0.27011421450175427 train acc 14/16
-Epoch 14 Batch_num 290 loss 0.6192521730749732 train acc 15/16
-Epoch 14 Batch_num 300 loss 0.8132453402304021 train acc 14/16
-Epoch 14 Batch_num 310 loss 0.6689762329281793 train acc 15/16
-Epoch 15 Batch_num 0 loss 0.0010328834504113038 train acc 15/16
-Epoch 15 Batch_num 10 loss 1.185146876851128 train acc 15/16
-Epoch 15 Batch_num 20 loss 0.49911862219097014 train acc 15/16
-Epoch 15 Batch_num 30 loss 0.7835868272011017 train acc 14/16
-Epoch 15 Batch_num 40 loss 1.162515176788477 train acc 16/16
-Epoch 15 Batch_num 50 loss 0.6598386026942923 train acc 16/16
-Epoch 15 Batch_num 60 loss 1.1365084362375397 train acc 15/16
-Epoch 15 Batch_num 70 loss 0.7679230343670153 train acc 15/16
-Epoch 15 Batch_num 80 loss 0.4999112888066358 train acc 16/16
-Epoch 15 Batch_num 90 loss 0.5563270334404502 train acc 15/16
-Epoch 15 Batch_num 100 loss 0.21177706815252068 train acc 16/16
-Epoch 15 Batch_num 110 loss 0.1632324797730229 train acc 16/16
-Epoch 15 Batch_num 120 loss 0.2110110916882207 train acc 15/16
-Epoch 15 Batch_num 130 loss 1.3315406378504298 train acc 14/16
-Epoch 15 Batch_num 140 loss 0.2945074541280993 train acc 14/16
-Epoch 15 Batch_num 150 loss 0.1258490274575222 train acc 15/16
-Epoch 15 Batch_num 160 loss 0.2863743900643029 train acc 15/16
-Epoch 15 Batch_num 170 loss 1.250605191919893 train acc 15/16
-Epoch 15 Batch_num 180 loss 0.8823712989201624 train acc 16/16
-Epoch 15 Batch_num 190 loss 0.7049196772058139 train acc 16/16
-Epoch 15 Batch_num 200 loss 0.30875728863608237 train acc 15/16
-Epoch 15 Batch_num 210 loss 0.07926776907706085 train acc 16/16
-Epoch 15 Batch_num 220 loss 0.4636074270629498 train acc 16/16
-Epoch 15 Batch_num 230 loss 0.5426482738384248 train acc 15/16
-Epoch 15 Batch_num 240 loss 0.42476866016814285 train acc 15/16
-Epoch 15 Batch_num 250 loss 0.27557716459873044 train acc 15/16
-Epoch 15 Batch_num 260 loss 1.4355621106315002 train acc 13/16
-Epoch 15 Batch_num 270 loss 0.6960330275664708 train acc 14/16
-Epoch 15 Batch_num 280 loss 0.4817969148580151 train acc 15/16
-Epoch 15 Batch_num 290 loss 0.8982768895115657 train acc 16/16
-Epoch 15 Batch_num 300 loss 0.5524814807201903 train acc 14/16
-Epoch 15 Batch_num 310 loss 0.6590631979482362 train acc 16/16
-Epoch 16 Batch_num 0 loss 0.0035214359179088217 train acc 14/16
-Epoch 16 Batch_num 10 loss 0.621044229485709 train acc 15/16
-Epoch 16 Batch_num 20 loss 0.31800069658974955 train acc 14/16
-Epoch 16 Batch_num 30 loss 0.9340114339696541 train acc 16/16
-Epoch 16 Batch_num 40 loss 0.7871235626665234 train acc 16/16
-Epoch 16 Batch_num 50 loss 0.8519746111922883 train acc 15/16
-Epoch 16 Batch_num 60 loss 2.196418909086952 train acc 15/16
-Epoch 16 Batch_num 70 loss 0.6569185603941695 train acc 15/16
-Epoch 16 Batch_num 80 loss 0.8132235662152139 train acc 16/16
-Epoch 16 Batch_num 90 loss 1.7614698583124881 train acc 16/16
-Epoch 16 Batch_num 100 loss 0.6459647787334655 train acc 16/16
-Epoch 16 Batch_num 110 loss 0.28489158481830545 train acc 16/16
-Epoch 16 Batch_num 120 loss 0.2105621242044754 train acc 16/16
-Epoch 16 Batch_num 130 loss 0.4347224571311219 train acc 15/16
-Epoch 16 Batch_num 140 loss 0.4048129043350564 train acc 15/16
-Epoch 16 Batch_num 150 loss 0.5540604114155725 train acc 14/16
-Epoch 16 Batch_num 160 loss 0.3718520998094938 train acc 14/16
-Epoch 16 Batch_num 170 loss 0.9250560877540774 train acc 15/16
-Epoch 16 Batch_num 180 loss 1.155972535080953 train acc 15/16
-Epoch 16 Batch_num 190 loss 0.27119805753517306 train acc 16/16
-Epoch 16 Batch_num 200 loss 0.8454529540802825 train acc 16/16
-Epoch 16 Batch_num 210 loss 0.36709584671636536 train acc 15/16
-Epoch 16 Batch_num 220 loss 0.6635576781855456 train acc 16/16
-Epoch 16 Batch_num 230 loss 0.9318278161094244 train acc 16/16
-Epoch 16 Batch_num 240 loss 1.0143433102416977 train acc 16/16
-Epoch 16 Batch_num 250 loss 0.6160661965527257 train acc 15/16
-Epoch 16 Batch_num 260 loss 0.8398410362737005 train acc 16/16
-Epoch 16 Batch_num 270 loss 0.5468896046885934 train acc 16/16
-Epoch 16 Batch_num 280 loss 0.458988945834896 train acc 16/16
-Epoch 16 Batch_num 290 loss 0.4184471075707835 train acc 16/16
-Epoch 16 Batch_num 300 loss 0.7832230299230414 train acc 16/16
-Epoch 16 Batch_num 310 loss 0.6055466491477995 train acc 16/16
-Epoch 17 Batch_num 0 loss 3.5394200180838276e-05 train acc 16/16
-Epoch 17 Batch_num 10 loss 0.198197624255017 train acc 16/16
-Epoch 17 Batch_num 20 loss 0.4089197737424032 train acc 15/16
-Epoch 17 Batch_num 30 loss 0.7437636579763891 train acc 15/16
-Epoch 17 Batch_num 40 loss 0.5729180420770585 train acc 16/16
-Epoch 17 Batch_num 50 loss 0.2350430299303805 train acc 14/16
-Epoch 17 Batch_num 60 loss 0.7684100774116794 train acc 15/16
-Epoch 17 Batch_num 70 loss 0.9139663996747076 train acc 15/16
-Epoch 17 Batch_num 80 loss 0.5775965019312883 train acc 16/16
-Epoch 17 Batch_num 90 loss 0.6219310967652906 train acc 16/16
-Epoch 17 Batch_num 100 loss 0.3186025860677268 train acc 14/16
-Epoch 17 Batch_num 110 loss 0.2508043468497843 train acc 16/16
-Epoch 17 Batch_num 120 loss 0.31119751648463684 train acc 15/16
-Epoch 17 Batch_num 130 loss 0.8621247887857567 train acc 15/16
-Epoch 17 Batch_num 140 loss 0.33319530590364665 train acc 16/16
-Epoch 17 Batch_num 150 loss 0.4546144178374802 train acc 16/16
-Epoch 17 Batch_num 160 loss 0.15555473258947827 train acc 16/16
-Epoch 17 Batch_num 170 loss 0.38372130707387303 train acc 16/16
-Epoch 17 Batch_num 180 loss 0.576336521839317 train acc 16/16
-Epoch 17 Batch_num 190 loss 0.43438677394902464 train acc 15/16
-Epoch 17 Batch_num 200 loss 0.11346748304355403 train acc 16/16
-Epoch 17 Batch_num 210 loss 0.8206537375918428 train acc 16/16
-Epoch 17 Batch_num 220 loss 0.23558868216395212 train acc 16/16
-Epoch 17 Batch_num 230 loss 1.3518317513648777 train acc 15/16
-Epoch 17 Batch_num 240 loss 0.8731034924122747 train acc 16/16
-Epoch 17 Batch_num 250 loss 0.5514621940999929 train acc 16/16
-Epoch 17 Batch_num 260 loss 0.8710649212442928 train acc 16/16
-Epoch 17 Batch_num 270 loss 0.5434051379712739 train acc 16/16
-Epoch 17 Batch_num 280 loss 0.42623173673552295 train acc 15/16
-Epoch 17 Batch_num 290 loss 0.8074474563398459 train acc 13/16
-Epoch 17 Batch_num 300 loss 1.8872458768260683 train acc 15/16
-Epoch 17 Batch_num 310 loss 0.5181241308616384 train acc 16/16
-Epoch 18 Batch_num 0 loss 0.4703238749033878 train acc 16/16
-Epoch 18 Batch_num 10 loss 0.7678500605816858 train acc 15/16
-Epoch 18 Batch_num 20 loss 0.50537603563536 train acc 15/16
-Epoch 18 Batch_num 30 loss 1.336252702405159 train acc 16/16
-Epoch 18 Batch_num 40 loss 0.5579963418928721 train acc 16/16
-Epoch 18 Batch_num 50 loss 0.6113050358925723 train acc 16/16
-Epoch 18 Batch_num 60 loss 0.6259385670778166 train acc 16/16
-Epoch 18 Batch_num 70 loss 0.9887862033757955 train acc 16/16
-Epoch 18 Batch_num 80 loss 0.4970648545014791 train acc 15/16
-Epoch 18 Batch_num 90 loss 0.38419165602946265 train acc 16/16
-Epoch 18 Batch_num 100 loss 0.6257748686747011 train acc 13/16
-Epoch 18 Batch_num 110 loss 0.19169434622672812 train acc 15/16
-Epoch 18 Batch_num 120 loss 0.43183088391181335 train acc 15/16
-Epoch 18 Batch_num 130 loss 0.4621977187723908 train acc 16/16
-Epoch 18 Batch_num 140 loss 0.4350830726406815 train acc 15/16
-Epoch 18 Batch_num 150 loss 0.5941645362764667 train acc 14/16
-Epoch 18 Batch_num 160 loss 0.1356538769567847 train acc 15/16
-Epoch 18 Batch_num 170 loss 0.36038948114419683 train acc 16/16
-Epoch 18 Batch_num 180 loss 0.9571297502244899 train acc 16/16
-Epoch 18 Batch_num 190 loss 0.3028705953904891 train acc 16/16
-Epoch 18 Batch_num 200 loss 0.5807545848271172 train acc 15/16
-Epoch 18 Batch_num 210 loss 0.4955144945363572 train acc 16/16
-Epoch 18 Batch_num 220 loss 1.6207836210671733 train acc 16/16
-Epoch 18 Batch_num 230 loss 1.341807080155275 train acc 15/16
-Epoch 18 Batch_num 240 loss 1.025597623117826 train acc 14/16
-Epoch 18 Batch_num 250 loss 0.4158079002302675 train acc 16/16
-Epoch 18 Batch_num 260 loss 0.5220392489891051 train acc 15/16
-Epoch 18 Batch_num 270 loss 0.3589135933098614 train acc 14/16
-Epoch 18 Batch_num 280 loss 0.9531335634775124 train acc 13/16
-Epoch 18 Batch_num 290 loss 0.7433457315765571 train acc 15/16
-Epoch 18 Batch_num 300 loss 0.3783973255161438 train acc 16/16
-Epoch 18 Batch_num 310 loss 0.22854583648640048 train acc 16/16
-Epoch 19 Batch_num 0 loss 0.0006985007252180431 train acc 14/16
-Epoch 19 Batch_num 10 loss 1.053846535491662 train acc 15/16
-Epoch 19 Batch_num 20 loss 0.3294508117045485 train acc 15/16
-Epoch 19 Batch_num 30 loss 0.22027765412107772 train acc 14/16
-Epoch 19 Batch_num 40 loss 0.6458733399429621 train acc 16/16
-Epoch 19 Batch_num 50 loss 0.615376773698255 train acc 16/16
-Epoch 19 Batch_num 60 loss 1.0083321334638826 train acc 16/16
-Epoch 19 Batch_num 70 loss 0.563415217639256 train acc 16/16
-Epoch 19 Batch_num 80 loss 0.5943252740059333 train acc 16/16
-Epoch 19 Batch_num 90 loss 0.8582917212213877 train acc 16/16
-Epoch 19 Batch_num 100 loss 0.5494235743142476 train acc 16/16
-Epoch 19 Batch_num 110 loss 0.3065817904689069 train acc 15/16
-Epoch 19 Batch_num 120 loss 0.6095378845948318 train acc 14/16
-Epoch 19 Batch_num 130 loss 0.4958855092911419 train acc 15/16
-Epoch 19 Batch_num 140 loss 0.3693424270152722 train acc 16/16
-Epoch 19 Batch_num 150 loss 0.15346389413978423 train acc 16/16
-Epoch 19 Batch_num 160 loss 0.14964408538379992 train acc 16/16
-Epoch 19 Batch_num 170 loss 0.3646456296381467 train acc 14/16
-Epoch 19 Batch_num 180 loss 0.6873784533855267 train acc 14/16
-Epoch 19 Batch_num 190 loss 1.1032411142289476 train acc 16/16
-Epoch 19 Batch_num 200 loss 1.0990758089464785 train acc 15/16
-Epoch 19 Batch_num 210 loss 0.661365226054609 train acc 16/16
-Epoch 19 Batch_num 220 loss 0.46361759693566057 train acc 16/16
-Epoch 19 Batch_num 230 loss 0.18685241971490568 train acc 16/16
-Epoch 19 Batch_num 240 loss 0.7003479730903349 train acc 15/16
-Epoch 19 Batch_num 250 loss 0.5233545828851813 train acc 15/16
-Epoch 19 Batch_num 260 loss 0.6375245481256854 train acc 15/16
-Epoch 19 Batch_num 270 loss 0.5898431282282496 train acc 16/16
-Epoch 19 Batch_num 280 loss 0.42040297841831237 train acc 15/16
-Epoch 19 Batch_num 290 loss 0.1917301015278513 train acc 14/16
-Epoch 19 Batch_num 300 loss 0.3444039097831087 train acc 15/16
-Epoch 19 Batch_num 310 loss 0.30161514344387674 train acc 15/16
-Epoch 20 Batch_num 0 loss 0.0011196103806851987 train acc 14/16
-Epoch 20 Batch_num 10 loss 0.7313851337128932 train acc 15/16
-Epoch 20 Batch_num 20 loss 0.266504790660105 train acc 16/16
-Epoch 20 Batch_num 30 loss 0.4887365753831318 train acc 14/16
-Epoch 20 Batch_num 40 loss 1.2297030550141805 train acc 15/16
-Epoch 20 Batch_num 50 loss 0.7878414896921313 train acc 16/16
-Epoch 20 Batch_num 60 loss 0.3386934397457022 train acc 15/16
-Epoch 20 Batch_num 70 loss 0.3898929865270974 train acc 15/16
-Epoch 20 Batch_num 80 loss 0.4481637257104487 train acc 14/16
-Epoch 20 Batch_num 90 loss 0.4118402046695669 train acc 16/16
-Epoch 20 Batch_num 100 loss 0.5043633772983714 train acc 15/16
-Epoch 20 Batch_num 110 loss 0.06617741286720463 train acc 15/16
-Epoch 20 Batch_num 120 loss 1.208752605110098 train acc 15/16
-Epoch 20 Batch_num 130 loss 0.28113705622356644 train acc 16/16
-Epoch 20 Batch_num 140 loss 0.5609479350952847 train acc 15/16
-Epoch 20 Batch_num 150 loss 0.11920415395582717 train acc 16/16
-Epoch 20 Batch_num 160 loss 0.8240994417723692 train acc 15/16
-Epoch 20 Batch_num 170 loss 1.0745229871773072 train acc 16/16
-Epoch 20 Batch_num 180 loss 0.6869119246824552 train acc 15/16
-Epoch 20 Batch_num 190 loss 0.5029464135195401 train acc 16/16
-Epoch 20 Batch_num 200 loss 0.25343518821580985 train acc 16/16
-Epoch 20 Batch_num 210 loss 0.5054278526564496 train acc 15/16
-Epoch 20 Batch_num 220 loss 0.6936887045619923 train acc 16/16
-Epoch 20 Batch_num 230 loss 0.5891336374684842 train acc 16/16
-Epoch 20 Batch_num 240 loss 0.2934529127722246 train acc 16/16
-Epoch 20 Batch_num 250 loss 1.7385856210080277 train acc 16/16
-Epoch 20 Batch_num 260 loss 0.7569322034306297 train acc 16/16
-Epoch 20 Batch_num 270 loss 0.21044932828949978 train acc 15/16
-Epoch 20 Batch_num 280 loss 0.7658421233648309 train acc 16/16
-Epoch 20 Batch_num 290 loss 0.2923674432801249 train acc 15/16
-Epoch 20 Batch_num 300 loss 1.2037628647242276 train acc 15/16
-Epoch 20 Batch_num 310 loss 0.19420550902570055 train acc 15/16
-Epoch 21 Batch_num 0 loss 0.00014287908787546932 train acc 15/16
-Epoch 21 Batch_num 10 loss 0.5007199922511659 train acc 16/16
-Epoch 21 Batch_num 20 loss 0.6537995568351025 train acc 16/16
-Epoch 21 Batch_num 30 loss 0.7013139279756686 train acc 15/16
-Epoch 21 Batch_num 40 loss 1.1996638197958585 train acc 16/16
-Epoch 21 Batch_num 50 loss 0.4286503199852252 train acc 16/16
-Epoch 21 Batch_num 60 loss 0.8093709846568957 train acc 15/16
-Epoch 21 Batch_num 70 loss 1.0089121198736928 train acc 16/16
-Epoch 21 Batch_num 80 loss 0.8738902043559426 train acc 15/16
-Epoch 21 Batch_num 90 loss 0.3671500847692794 train acc 15/16
-Epoch 21 Batch_num 100 loss 0.3464057067661213 train acc 15/16
-Epoch 21 Batch_num 110 loss 0.4204519978202628 train acc 15/16
-Epoch 21 Batch_num 120 loss 0.5241820994576203 train acc 16/16
-Epoch 21 Batch_num 130 loss 0.25854417673638536 train acc 16/16
-Epoch 21 Batch_num 140 loss 0.14253082927250643 train acc 16/16
-Epoch 21 Batch_num 150 loss 0.6774108557911993 train acc 15/16
-Epoch 21 Batch_num 160 loss 0.16912117072942923 train acc 13/16
-Epoch 21 Batch_num 170 loss 0.3454439853448337 train acc 15/16
-Epoch 21 Batch_num 180 loss 0.9639188886477686 train acc 16/16
-Epoch 21 Batch_num 190 loss 0.35046689495971245 train acc 16/16
-Epoch 21 Batch_num 200 loss 0.22769119164365875 train acc 16/16
-Epoch 21 Batch_num 210 loss 0.3705026373453394 train acc 16/16
-Epoch 21 Batch_num 220 loss 0.4657866925016225 train acc 15/16
-Epoch 21 Batch_num 230 loss 0.44854307895233436 train acc 15/16
-Epoch 21 Batch_num 240 loss 0.6917014642040884 train acc 15/16
-Epoch 21 Batch_num 250 loss 0.5066622418267829 train acc 16/16
-Epoch 21 Batch_num 260 loss 0.3983573673847496 train acc 14/16
-Epoch 21 Batch_num 270 loss 0.09843626930173877 train acc 15/16
-Epoch 21 Batch_num 280 loss 0.22420235893696888 train acc 16/16
-Epoch 21 Batch_num 290 loss 0.3418745055283416 train acc 15/16
-Epoch 21 Batch_num 300 loss 0.2712190116095422 train acc 16/16
-Epoch 21 Batch_num 310 loss 2.0863537399927488 train acc 16/16
-Epoch 22 Batch_num 0 loss 0.0064606486914223216 train acc 16/16
-Epoch 22 Batch_num 10 loss 0.22717692742560844 train acc 16/16
-Epoch 22 Batch_num 20 loss 0.10382387072589166 train acc 15/16
-Epoch 22 Batch_num 30 loss 0.3357093056479578 train acc 15/16
-Epoch 22 Batch_num 40 loss 0.3934938696188703 train acc 15/16
-Epoch 22 Batch_num 50 loss 0.28907758013200435 train acc 16/16
-Epoch 22 Batch_num 60 loss 0.2521820411657692 train acc 16/16
-Epoch 22 Batch_num 70 loss 0.10416432524708225 train acc 16/16
-Epoch 22 Batch_num 80 loss 0.3256647808094703 train acc 15/16
-Epoch 22 Batch_num 90 loss 0.1452173124496618 train acc 16/16
-Epoch 22 Batch_num 100 loss 0.3095448993580103 train acc 15/16
-Epoch 22 Batch_num 110 loss 0.17714093462248404 train acc 16/16
-Epoch 22 Batch_num 120 loss 0.884500692463895 train acc 16/16
-Epoch 22 Batch_num 130 loss 0.6266206279386984 train acc 16/16
-Epoch 22 Batch_num 140 loss 0.10223939649919211 train acc 16/16
-Epoch 22 Batch_num 150 loss 0.2707033647621303 train acc 16/16
-Epoch 22 Batch_num 160 loss 0.03774565310980604 train acc 16/16
-Epoch 22 Batch_num 170 loss 0.18602167993663776 train acc 16/16
-Epoch 22 Batch_num 180 loss 0.27312286308568867 train acc 16/16
-Epoch 22 Batch_num 190 loss 0.5016354843823024 train acc 16/16
-Epoch 22 Batch_num 200 loss 0.31937368167727975 train acc 16/16
-Epoch 22 Batch_num 210 loss 0.3112713619909069 train acc 16/16
-Epoch 22 Batch_num 220 loss 0.8571029023238631 train acc 16/16
-Epoch 22 Batch_num 230 loss 0.4632671296595169 train acc 16/16
-Epoch 22 Batch_num 240 loss 0.5083322245774817 train acc 16/16
-Epoch 22 Batch_num 250 loss 0.178329775086953 train acc 16/16
-Epoch 22 Batch_num 260 loss 1.0631654456998267 train acc 16/16
-Epoch 22 Batch_num 270 loss 0.07075245171222755 train acc 16/16
-Epoch 22 Batch_num 280 loss 0.40896690975513644 train acc 16/16
-Epoch 22 Batch_num 290 loss 0.4481370213703477 train acc 15/16
-Epoch 22 Batch_num 300 loss 0.6248798780117036 train acc 16/16
-Epoch 22 Batch_num 310 loss 0.420073800697368 train acc 16/16
-Epoch 23 Batch_num 0 loss 0.026030103979455377 train acc 16/16
-Epoch 23 Batch_num 10 loss 0.47471141750248 train acc 14/16
-Epoch 23 Batch_num 20 loss 0.2990122087707601 train acc 15/16
-Epoch 23 Batch_num 30 loss 1.1813145536942353 train acc 16/16
-Epoch 23 Batch_num 40 loss 0.4203620650319688 train acc 14/16
-Epoch 23 Batch_num 50 loss 0.38297248067374345 train acc 15/16
-Epoch 23 Batch_num 60 loss 0.23958340045738918 train acc 16/16
-Epoch 23 Batch_num 70 loss 0.14405879740082916 train acc 15/16
-Epoch 23 Batch_num 80 loss 1.394342100242632 train acc 13/16
-Epoch 23 Batch_num 90 loss 0.7668949328658083 train acc 16/16
-Epoch 23 Batch_num 100 loss 0.3630669716271069 train acc 15/16
-Epoch 23 Batch_num 110 loss 0.28303509624852113 train acc 16/16
-Epoch 23 Batch_num 120 loss 0.38363954663041067 train acc 15/16
-Epoch 23 Batch_num 130 loss 0.4384845659986311 train acc 16/16
-Epoch 23 Batch_num 140 loss 0.3328297745978175 train acc 16/16
-Epoch 23 Batch_num 150 loss 0.08185189954463784 train acc 15/16
-Epoch 23 Batch_num 160 loss 0.378229692917654 train acc 16/16
-Epoch 23 Batch_num 170 loss 0.156459818118664 train acc 16/16
-Epoch 23 Batch_num 180 loss 0.3279449071052351 train acc 16/16
-Epoch 23 Batch_num 190 loss 0.08272484463607449 train acc 15/16
-Epoch 23 Batch_num 200 loss 0.5888489111044626 train acc 16/16
-Epoch 23 Batch_num 210 loss 0.8224631966709066 train acc 15/16
-Epoch 23 Batch_num 220 loss 0.34754837164381425 train acc 16/16
-Epoch 23 Batch_num 230 loss 0.3824492339957134 train acc 16/16
-Epoch 23 Batch_num 240 loss 0.7701292784946855 train acc 16/16
-Epoch 23 Batch_num 250 loss 0.6293170809487196 train acc 15/16
-Epoch 23 Batch_num 260 loss 0.13931364518540196 train acc 16/16
-Epoch 23 Batch_num 270 loss 0.0439031127900652 train acc 16/16
-Epoch 23 Batch_num 280 loss 0.10979907070217204 train acc 16/16
-Epoch 23 Batch_num 290 loss 0.07858024479238618 train acc 16/16
-Epoch 23 Batch_num 300 loss 0.5199739778597547 train acc 15/16
-Epoch 23 Batch_num 310 loss 0.4226699918064628 train acc 16/16
-Epoch 24 Batch_num 0 loss 0.00012898566225694186 train acc 16/16
-Epoch 24 Batch_num 10 loss 0.6745141357205078 train acc 15/16
-Epoch 24 Batch_num 20 loss 0.2503585343100534 train acc 16/16
-Epoch 24 Batch_num 30 loss 0.7094464592905977 train acc 16/16
-Epoch 24 Batch_num 40 loss 0.3194571227270597 train acc 16/16
-Epoch 24 Batch_num 50 loss 0.37138676798998294 train acc 15/16
-Epoch 24 Batch_num 60 loss 0.856829184874762 train acc 16/16
-Epoch 24 Batch_num 70 loss 0.9710157548731982 train acc 16/16
-Epoch 24 Batch_num 80 loss 0.3524824232239431 train acc 15/16
-Epoch 24 Batch_num 90 loss 0.4980717346059972 train acc 16/16
-Epoch 24 Batch_num 100 loss 0.4989625063014014 train acc 15/16
-Epoch 24 Batch_num 110 loss 0.30887520215525827 train acc 16/16
-Epoch 24 Batch_num 120 loss 0.6115089326619064 train acc 15/16
-Epoch 24 Batch_num 130 loss 1.043446113555912 train acc 16/16
-Epoch 24 Batch_num 140 loss 0.8707703664977968 train acc 15/16
-Epoch 24 Batch_num 150 loss 0.5413529035650425 train acc 15/16
-Epoch 24 Batch_num 160 loss 0.48345052374622155 train acc 16/16
-Epoch 24 Batch_num 170 loss 0.31537395866284407 train acc 16/16
-Epoch 24 Batch_num 180 loss 0.29463551869602245 train acc 16/16
-Epoch 24 Batch_num 190 loss 0.26422281237150247 train acc 16/16
-Epoch 24 Batch_num 200 loss 0.06835897266655538 train acc 16/16
-Epoch 24 Batch_num 210 loss 0.5106244173156264 train acc 16/16
-Epoch 24 Batch_num 220 loss 0.45325641256724075 train acc 16/16
-Epoch 24 Batch_num 230 loss 0.055853740610134595 train acc 16/16
-Epoch 24 Batch_num 240 loss 0.555798320973045 train acc 16/16
-Epoch 24 Batch_num 250 loss 0.831857764247953 train acc 16/16
-Epoch 24 Batch_num 260 loss 0.33381497803800314 train acc 16/16
-Epoch 24 Batch_num 270 loss 0.1820401266328982 train acc 16/16
-Epoch 24 Batch_num 280 loss 0.1313801169559535 train acc 16/16
-Epoch 24 Batch_num 290 loss 0.13841018632528834 train acc 16/16
-Epoch 24 Batch_num 300 loss 0.038412061716378065 train acc 16/16
-Epoch 24 Batch_num 310 loss 0.12301367780370215 train acc 16/16
-Epoch 25 Batch_num 0 loss 7.09363446731448e-05 train acc 16/16
-Epoch 25 Batch_num 10 loss 0.2701212927387948 train acc 15/16
-Epoch 25 Batch_num 20 loss 0.1311479854889216 train acc 15/16
-Epoch 25 Batch_num 30 loss 0.270458341309961 train acc 16/16
-Epoch 25 Batch_num 40 loss 0.9430161803418821 train acc 15/16
-Epoch 25 Batch_num 50 loss 0.39922727783536843 train acc 16/16
-Epoch 25 Batch_num 60 loss 0.274861360105621 train acc 16/16
-Epoch 25 Batch_num 70 loss 0.8143035351471417 train acc 15/16
-Epoch 25 Batch_num 80 loss 0.289599544659429 train acc 14/16
-Epoch 25 Batch_num 90 loss 0.2322324700591315 train acc 16/16
-Epoch 25 Batch_num 100 loss 0.08983033659371059 train acc 16/16
-Epoch 25 Batch_num 110 loss 0.26506971928191714 train acc 16/16
-Epoch 25 Batch_num 120 loss 0.06216338479667827 train acc 16/16
-Epoch 25 Batch_num 130 loss 0.04601777829730014 train acc 16/16
-Epoch 25 Batch_num 140 loss 0.13392424366637987 train acc 16/16
-Epoch 25 Batch_num 150 loss 0.1965241807409902 train acc 16/16
-Epoch 25 Batch_num 160 loss 0.152908107446191 train acc 16/16
-Epoch 25 Batch_num 170 loss 0.07366771657245808 train acc 16/16
-Epoch 25 Batch_num 180 loss 0.11068041004067902 train acc 16/16
-Epoch 25 Batch_num 190 loss 0.20029627564763702 train acc 16/16
-Epoch 25 Batch_num 200 loss 0.05972764587154589 train acc 16/16
-Epoch 25 Batch_num 210 loss 0.44859982367598733 train acc 15/16
-Epoch 25 Batch_num 220 loss 0.15589113576133884 train acc 16/16
-Epoch 25 Batch_num 230 loss 0.025005379476862766 train acc 16/16
-Epoch 25 Batch_num 240 loss 0.42460045852517625 train acc 15/16
-Epoch 25 Batch_num 250 loss 0.4412485049381387 train acc 16/16
-Epoch 25 Batch_num 260 loss 0.47324835831275397 train acc 16/16
-Epoch 25 Batch_num 270 loss 1.1218463111942714 train acc 15/16
-Epoch 25 Batch_num 280 loss 0.16606152203253172 train acc 15/16
-Epoch 25 Batch_num 290 loss 0.25485597801519455 train acc 15/16
-Epoch 25 Batch_num 300 loss 0.6298763802582832 train acc 14/16
-Epoch 25 Batch_num 310 loss 0.14599893128065394 train acc 14/16
+Epoch 1 Batch_num 0 loss 2.274283887206422 train acc 5/16 val acc 3/16
+Epoch 1 Batch_num 10 loss 22.875732754918268 train acc 7/16 val acc 2/16
+Epoch 1 Batch_num 20 loss 22.376500066825308 train acc 6/16 val acc 2/16
+Epoch 1 Batch_num 30 loss 20.33771042946751 train acc 11/16 val acc 6/16
+Epoch 1 Batch_num 40 loss 19.39882597100482 train acc 10/16 val acc 11/16
+Epoch 1 Batch_num 50 loss 17.46878990104852 train acc 11/16 val acc 10/16
+Epoch 1 Batch_num 60 loss 17.09085518233108 train acc 11/16 val acc 13/16
+Epoch 1 Batch_num 70 loss 13.759310761435813 train acc 11/16 val acc 10/16
+Epoch 1 Batch_num 80 loss 13.55276873773066 train acc 9/16 val acc 11/16
+Epoch 1 Batch_num 90 loss 11.753402073494522 train acc 12/16 val acc 11/16
+Epoch 1 Batch_num 100 loss 9.017855262028675 train acc 13/16 val acc 11/16
+Epoch 1 Batch_num 110 loss 6.647323342173494 train acc 9/16 val acc 7/16
+Epoch 1 Batch_num 120 loss 8.446435132494456 train acc 15/16 val acc 10/16
+Epoch 1 Batch_num 130 loss 8.985101723230963 train acc 14/16 val acc 14/16
+Epoch 1 Batch_num 140 loss 6.69811536880975 train acc 14/16 val acc 13/16
+Epoch 1 Batch_num 150 loss 6.312326708517512 train acc 14/16 val acc 11/16
+Epoch 1 Batch_num 160 loss 5.880442051762371 train acc 14/16 val acc 13/16
+Epoch 1 Batch_num 170 loss 9.173775459848727 train acc 14/16 val acc 14/16
+Epoch 1 Batch_num 180 loss 5.980860792487516 train acc 14/16 val acc 10/16
+Epoch 1 Batch_num 190 loss 6.017556345816492 train acc 14/16 val acc 13/16
+Epoch 1 Batch_num 200 loss 5.8393883692067 train acc 12/16 val acc 13/16
+Epoch 1 Batch_num 210 loss 4.3991079311464105 train acc 13/16 val acc 15/16
+Epoch 1 Batch_num 220 loss 5.080286620766201 train acc 16/16 val acc 14/16
+Epoch 1 Batch_num 230 loss 4.0273890142604705 train acc 13/16 val acc 12/16
+Epoch 1 Batch_num 240 loss 4.469112840688052 train acc 15/16 val acc 12/16
+Epoch 1 Batch_num 250 loss 3.584359420668659 train acc 16/16 val acc 13/16
+Epoch 1 Batch_num 260 loss 4.783876028381489 train acc 15/16 val acc 15/16
+Epoch 1 Batch_num 270 loss 3.9095537533503326 train acc 15/16 val acc 13/16
+Epoch 1 Batch_num 280 loss 4.487686080988741 train acc 15/16 val acc 15/16
+Epoch 1 Batch_num 290 loss 4.802504594638766 train acc 15/16 val acc 13/16
+Epoch 1 Batch_num 300 loss 5.3228500642876915 train acc 15/16 val acc 11/16
+Epoch 1 Batch_num 310 loss 4.081173591570634 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 0 loss 0.12494498284120581 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 10 loss 4.564824317303559 train acc 16/16 val acc 13/16
+Epoch 2 Batch_num 20 loss 2.934193780896275 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 30 loss 3.1162688339405893 train acc 15/16 val acc 14/16
+Epoch 2 Batch_num 40 loss 3.5046939479365045 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 50 loss 2.606442440379988 train acc 15/16 val acc 14/16
+Epoch 2 Batch_num 60 loss 5.369331033456952 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 70 loss 4.816822754837622 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 80 loss 3.914312577311901 train acc 15/16 val acc 14/16
+Epoch 2 Batch_num 90 loss 3.6443501315754117 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 100 loss 3.805132484009211 train acc 15/16 val acc 14/16
+Epoch 2 Batch_num 110 loss 1.512151012845646 train acc 15/16 val acc 14/16
+Epoch 2 Batch_num 120 loss 2.7945055514726262 train acc 15/16 val acc 14/16
+Epoch 2 Batch_num 130 loss 3.2831552612559327 train acc 15/16 val acc 15/16
+Epoch 2 Batch_num 140 loss 3.018021489997121 train acc 15/16 val acc 14/16
+Epoch 2 Batch_num 150 loss 2.653240770063351 train acc 16/16 val acc 13/16
+Epoch 2 Batch_num 160 loss 2.535806585286967 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 170 loss 3.3877006570406873 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 180 loss 3.024403017337139 train acc 15/16 val acc 14/16
+Epoch 2 Batch_num 190 loss 3.0106219944245316 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 200 loss 2.4126415240087096 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 210 loss 3.3815537753074687 train acc 14/16 val acc 13/16
+Epoch 2 Batch_num 220 loss 2.7930722449416336 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 230 loss 1.7217788494383592 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 240 loss 2.5428690008294677 train acc 15/16 val acc 14/16
+Epoch 2 Batch_num 250 loss 1.9840071564632955 train acc 15/16 val acc 16/16
+Epoch 2 Batch_num 260 loss 2.2453439580727013 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 270 loss 2.4787317413958503 train acc 16/16 val acc 14/16
+Epoch 2 Batch_num 280 loss 2.0803494775984084 train acc 15/16 val acc 13/16
+Epoch 2 Batch_num 290 loss 2.560357235164843 train acc 15/16 val acc 14/16
+Epoch 2 Batch_num 300 loss 2.4402928065784173 train acc 14/16 val acc 15/16
+Epoch 2 Batch_num 310 loss 2.7017032696272265 train acc 15/16 val acc 13/16
+Epoch 3 Batch_num 0 loss 0.14078919894121222 train acc 16/16 val acc 15/16
+Epoch 3 Batch_num 10 loss 2.190285709581939 train acc 16/16 val acc 14/16
+Epoch 3 Batch_num 20 loss 1.7174102495794463 train acc 15/16 val acc 15/16
+Epoch 3 Batch_num 30 loss 2.5218883359023483 train acc 15/16 val acc 13/16
+Epoch 3 Batch_num 40 loss 2.706034100556261 train acc 16/16 val acc 16/16
+Epoch 3 Batch_num 50 loss 1.324315723382152 train acc 15/16 val acc 15/16
+Epoch 3 Batch_num 60 loss 2.829854778560836 train acc 16/16 val acc 16/16
+Epoch 3 Batch_num 70 loss 3.452278239006942 train acc 15/16 val acc 16/16
+Epoch 3 Batch_num 80 loss 2.7694330903987474 train acc 16/16 val acc 14/16
+Epoch 3 Batch_num 90 loss 2.4224113095517534 train acc 16/16 val acc 16/16
+Epoch 3 Batch_num 100 loss 2.3369423739545674 train acc 15/16 val acc 14/16
+Epoch 3 Batch_num 110 loss 1.3328288593782787 train acc 15/16 val acc 15/16
+Epoch 3 Batch_num 120 loss 2.39382564754275 train acc 16/16 val acc 14/16
+Epoch 3 Batch_num 130 loss 1.6160884900369128 train acc 16/16 val acc 14/16
+Epoch 3 Batch_num 140 loss 2.1029395814978953 train acc 16/16 val acc 15/16
+Epoch 3 Batch_num 150 loss 1.8997601405099869 train acc 15/16 val acc 15/16
+Epoch 3 Batch_num 160 loss 1.7116821927341497 train acc 16/16 val acc 15/16
+Epoch 3 Batch_num 170 loss 3.6089164267259237 train acc 16/16 val acc 14/16
+Epoch 3 Batch_num 180 loss 2.198367780681432 train acc 16/16 val acc 14/16
+Epoch 3 Batch_num 190 loss 1.8904071376274487 train acc 16/16 val acc 15/16
+Epoch 3 Batch_num 200 loss 2.119317138746109 train acc 16/16 val acc 14/16
+Epoch 3 Batch_num 210 loss 2.242764007587363 train acc 16/16 val acc 14/16
+Epoch 3 Batch_num 220 loss 2.376462280031815 train acc 16/16 val acc 15/16
+Epoch 3 Batch_num 230 loss 1.7078312958198087 train acc 15/16 val acc 13/16
+Epoch 3 Batch_num 240 loss 1.9468359208923511 train acc 16/16 val acc 14/16
+Epoch 3 Batch_num 250 loss 1.4140147323915655 train acc 16/16 val acc 14/16
+Epoch 3 Batch_num 260 loss 1.6952868298507404 train acc 16/16 val acc 14/16
+Epoch 3 Batch_num 270 loss 1.264002881393885 train acc 16/16 val acc 14/16
+Epoch 3 Batch_num 280 loss 1.1593765775840266 train acc 16/16 val acc 14/16
+Epoch 3 Batch_num 290 loss 2.8343675356530635 train acc 15/16 val acc 14/16
+Epoch 3 Batch_num 300 loss 1.7223463984615788 train acc 16/16 val acc 16/16
+Epoch 3 Batch_num 310 loss 2.0079712600099917 train acc 15/16 val acc 14/16
+Epoch 4 Batch_num 0 loss 0.0686466139116606 train acc 16/16 val acc 15/16
+Epoch 4 Batch_num 10 loss 1.9050769527441929 train acc 16/16 val acc 15/16
+Epoch 4 Batch_num 20 loss 1.4366229627842684 train acc 16/16 val acc 15/16
+Epoch 4 Batch_num 30 loss 2.2538501990769726 train acc 16/16 val acc 14/16
+Epoch 4 Batch_num 40 loss 1.794003088926761 train acc 15/16 val acc 16/16
+Epoch 4 Batch_num 50 loss 1.5190185115654793 train acc 16/16 val acc 16/16
+Epoch 4 Batch_num 60 loss 2.8290629604425033 train acc 16/16 val acc 15/16
+Epoch 4 Batch_num 70 loss 1.3846031016198261 train acc 16/16 val acc 14/16
+Epoch 4 Batch_num 80 loss 1.7309295643994873 train acc 16/16 val acc 16/16
+Epoch 4 Batch_num 90 loss 2.142086287016463 train acc 16/16 val acc 15/16
+Epoch 4 Batch_num 100 loss 1.3599287671487472 train acc 16/16 val acc 15/16
+Epoch 4 Batch_num 110 loss 0.7386110360112003 train acc 16/16 val acc 14/16
+Epoch 4 Batch_num 120 loss 1.1819684003870126 train acc 15/16 val acc 13/16
+Epoch 4 Batch_num 130 loss 1.3188336806170757 train acc 16/16 val acc 16/16
+Epoch 4 Batch_num 140 loss 2.1785457300277313 train acc 16/16 val acc 14/16
+Epoch 4 Batch_num 150 loss 1.537597304824428 train acc 16/16 val acc 15/16
+Epoch 4 Batch_num 160 loss 2.2090932512633836 train acc 16/16 val acc 16/16
+Epoch 4 Batch_num 170 loss 2.213360017435347 train acc 16/16 val acc 15/16
+Epoch 4 Batch_num 180 loss 1.6809392782997818 train acc 16/16 val acc 14/16
+Epoch 4 Batch_num 190 loss 1.3351433301237157 train acc 16/16 val acc 14/16
+Epoch 4 Batch_num 200 loss 0.9972991763219751 train acc 16/16 val acc 14/16
+Epoch 4 Batch_num 210 loss 0.8452792384149204 train acc 16/16 val acc 14/16
+Epoch 4 Batch_num 220 loss 1.8315835695409346 train acc 16/16 val acc 15/16
+Epoch 4 Batch_num 230 loss 1.21224868939677 train acc 15/16 val acc 16/16
+Epoch 4 Batch_num 240 loss 1.5775352384535586 train acc 16/16 val acc 14/16
+Epoch 4 Batch_num 250 loss 0.9237986284805444 train acc 16/16 val acc 16/16
+Epoch 4 Batch_num 260 loss 1.5874086657925894 train acc 16/16 val acc 16/16
+Epoch 4 Batch_num 270 loss 1.2705326847449239 train acc 16/16 val acc 14/16
+Epoch 4 Batch_num 280 loss 1.3558776637208383 train acc 16/16 val acc 13/16
+Epoch 4 Batch_num 290 loss 1.1977724939540377 train acc 16/16 val acc 15/16
+Epoch 4 Batch_num 300 loss 1.5765142439439794 train acc 16/16 val acc 16/16
+Epoch 4 Batch_num 310 loss 2.2719638521378416 train acc 16/16 val acc 15/16
+Epoch 5 Batch_num 0 loss 0.07032888363448797 train acc 16/16 val acc 16/16
+Epoch 5 Batch_num 10 loss 1.8863645454790932 train acc 16/16 val acc 14/16
+Epoch 5 Batch_num 20 loss 1.1907205402672956 train acc 16/16 val acc 14/16
+Epoch 5 Batch_num 30 loss 1.9881100087158157 train acc 16/16 val acc 16/16
+Epoch 5 Batch_num 40 loss 1.4960350030327738 train acc 16/16 val acc 15/16
+Epoch 5 Batch_num 50 loss 0.9910449808049786 train acc 16/16 val acc 16/16
+Epoch 5 Batch_num 60 loss 1.9445947363243123 train acc 16/16 val acc 15/16
+Epoch 5 Batch_num 70 loss 2.495519939531623 train acc 16/16 val acc 15/16
+Epoch 5 Batch_num 80 loss 2.1599388094229783 train acc 16/16 val acc 14/16
+Epoch 5 Batch_num 90 loss 1.4714895905955896 train acc 16/16 val acc 16/16
+Epoch 5 Batch_num 100 loss 1.5652351380859229 train acc 15/16 val acc 15/16
+Epoch 5 Batch_num 110 loss 1.1163374983480756 train acc 16/16 val acc 15/16
+Epoch 5 Batch_num 120 loss 1.0140398464495284 train acc 16/16 val acc 15/16
+Epoch 5 Batch_num 130 loss 1.6521054687960561 train acc 15/16 val acc 14/16
+Epoch 5 Batch_num 140 loss 1.0819363966071163 train acc 16/16 val acc 14/16
+Epoch 5 Batch_num 150 loss 1.1248912887059235 train acc 16/16 val acc 13/16
+Epoch 5 Batch_num 160 loss 1.832437816270603 train acc 16/16 val acc 15/16
+Epoch 5 Batch_num 170 loss 1.9261764871266733 train acc 15/16 val acc 14/16
+Epoch 5 Batch_num 180 loss 0.8967233043119054 train acc 16/16 val acc 15/16
+Epoch 5 Batch_num 190 loss 1.1777500447579876 train acc 16/16 val acc 16/16
+Epoch 5 Batch_num 200 loss 0.9374993644432189 train acc 16/16 val acc 15/16
+Epoch 5 Batch_num 210 loss 1.2143743315937727 train acc 16/16 val acc 15/16
+Epoch 5 Batch_num 220 loss 1.5850262229858103 train acc 15/16 val acc 14/16
+Epoch 5 Batch_num 230 loss 1.3077831818990169 train acc 15/16 val acc 14/16
+Epoch 5 Batch_num 240 loss 1.4646987790079282 train acc 15/16 val acc 15/16
+Epoch 5 Batch_num 250 loss 1.3378286243560362 train acc 16/16 val acc 14/16
+Epoch 5 Batch_num 260 loss 0.6883307399991478 train acc 16/16 val acc 14/16
+Epoch 5 Batch_num 270 loss 1.3729504816769302 train acc 15/16 val acc 14/16
+Epoch 5 Batch_num 280 loss 1.2659840233349282 train acc 16/16 val acc 14/16
+Epoch 5 Batch_num 290 loss 1.618093865918953 train acc 16/16 val acc 15/16
+Epoch 5 Batch_num 300 loss 1.488343479319214 train acc 16/16 val acc 15/16
+Epoch 5 Batch_num 310 loss 1.1203397196434965 train acc 16/16 val acc 16/16
+Epoch 6 Batch_num 0 loss 0.009002841358762392 train acc 15/16 val acc 15/16
+Epoch 6 Batch_num 10 loss 1.6116249534951597 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 20 loss 1.3010704127571495 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 30 loss 1.6988705100782227 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 40 loss 1.4780575328604124 train acc 16/16 val acc 16/16
+Epoch 6 Batch_num 50 loss 0.5141715599741844 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 60 loss 1.3811286995094778 train acc 16/16 val acc 16/16
+Epoch 6 Batch_num 70 loss 2.054523025987667 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 80 loss 1.3642503837225846 train acc 16/16 val acc 16/16
+Epoch 6 Batch_num 90 loss 1.3750805128234775 train acc 16/16 val acc 16/16
+Epoch 6 Batch_num 100 loss 1.4594359820279972 train acc 16/16 val acc 16/16
+Epoch 6 Batch_num 110 loss 0.6999397690109455 train acc 16/16 val acc 14/16
+Epoch 6 Batch_num 120 loss 0.7391208233840736 train acc 16/16 val acc 13/16
+Epoch 6 Batch_num 130 loss 1.3506798921429017 train acc 16/16 val acc 14/16
+Epoch 6 Batch_num 140 loss 1.0497306321149784 train acc 16/16 val acc 13/16
+Epoch 6 Batch_num 150 loss 0.9032189699002675 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 160 loss 1.2857507969086228 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 170 loss 1.5791126867067242 train acc 16/16 val acc 14/16
+Epoch 6 Batch_num 180 loss 1.013480401558334 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 190 loss 1.4125229918797708 train acc 16/16 val acc 14/16
+Epoch 6 Batch_num 200 loss 0.6885762385151128 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 210 loss 1.7354964407958047 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 220 loss 1.4551268859351443 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 230 loss 0.8257535370071616 train acc 16/16 val acc 14/16
+Epoch 6 Batch_num 240 loss 1.5999626327521586 train acc 16/16 val acc 16/16
+Epoch 6 Batch_num 250 loss 0.6606904121222142 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 260 loss 0.8777666140694176 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 270 loss 1.8367118354034908 train acc 16/16 val acc 14/16
+Epoch 6 Batch_num 280 loss 0.6246001398645626 train acc 16/16 val acc 16/16
+Epoch 6 Batch_num 290 loss 0.9104088283706475 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 300 loss 1.0913566833067305 train acc 16/16 val acc 15/16
+Epoch 6 Batch_num 310 loss 0.8673680607503848 train acc 16/16 val acc 16/16
+Epoch 7 Batch_num 0 loss 0.0038512228260961234 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 10 loss 1.2669005778677096 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 20 loss 0.7522325589359188 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 30 loss 1.0867713608719811 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 40 loss 2.0551216279663596 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 50 loss 0.44460354118384204 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 60 loss 1.5411709487612504 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 70 loss 1.1307778104242434 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 80 loss 1.703333096556921 train acc 15/16 val acc 15/16
+Epoch 7 Batch_num 90 loss 1.490022276388884 train acc 16/16 val acc 14/16
+Epoch 7 Batch_num 100 loss 1.0383356291601584 train acc 14/16 val acc 14/16
+Epoch 7 Batch_num 110 loss 0.4583008923880908 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 120 loss 1.1357188471683077 train acc 16/16 val acc 14/16
+Epoch 7 Batch_num 130 loss 0.6194115347492841 train acc 16/16 val acc 13/16
+Epoch 7 Batch_num 140 loss 1.1746544919162512 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 150 loss 0.4708153932953978 train acc 16/16 val acc 16/16
+Epoch 7 Batch_num 160 loss 0.670807797699241 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 170 loss 1.3594981254671497 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 180 loss 0.3919417681351672 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 190 loss 1.1421460035696942 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 200 loss 0.3440981950983548 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 210 loss 0.614988218483664 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 220 loss 0.9599898869683862 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 230 loss 0.5170057515895832 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 240 loss 2.2716977704577546 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 250 loss 1.024105274702002 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 260 loss 1.2505278935537074 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 270 loss 0.7930642337663142 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 280 loss 0.8781579813895644 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 290 loss 1.0266270509776654 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 300 loss 0.6582908434662056 train acc 16/16 val acc 15/16
+Epoch 7 Batch_num 310 loss 0.7567766738269968 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 0 loss 0.0012411276845494257 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 10 loss 0.7562858544360725 train acc 16/16 val acc 14/16
+Epoch 8 Batch_num 20 loss 0.5337136674898526 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 30 loss 0.9091850352056744 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 40 loss 1.6165686447800496 train acc 16/16 val acc 16/16
+Epoch 8 Batch_num 50 loss 0.3937156323030685 train acc 16/16 val acc 16/16
+Epoch 8 Batch_num 60 loss 1.4971646773661031 train acc 16/16 val acc 16/16
+Epoch 8 Batch_num 70 loss 1.58855843498875 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 80 loss 1.2706469326088285 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 90 loss 1.1849149034795765 train acc 16/16 val acc 16/16
+Epoch 8 Batch_num 100 loss 0.8738293917330957 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 110 loss 0.5803402247099302 train acc 16/16 val acc 16/16
+Epoch 8 Batch_num 120 loss 0.9596731774595011 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 130 loss 1.1251501070076873 train acc 15/16 val acc 15/16
+Epoch 8 Batch_num 140 loss 1.3837777186110667 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 150 loss 0.5939116498320498 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 160 loss 0.49491544302860213 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 170 loss 1.6659868144636265 train acc 16/16 val acc 16/16
+Epoch 8 Batch_num 180 loss 0.7430959023660486 train acc 16/16 val acc 16/16
+Epoch 8 Batch_num 190 loss 0.912562369960979 train acc 16/16 val acc 16/16
+Epoch 8 Batch_num 200 loss 0.22014047030382905 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 210 loss 0.4123621724494001 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 220 loss 0.7897447495294909 train acc 16/16 val acc 16/16
+Epoch 8 Batch_num 230 loss 0.7144649894217758 train acc 16/16 val acc 14/16
+Epoch 8 Batch_num 240 loss 1.1974690520709081 train acc 16/16 val acc 16/16
+Epoch 8 Batch_num 250 loss 1.443903067252411 train acc 16/16 val acc 16/16
+Epoch 8 Batch_num 260 loss 0.5496679885263819 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 270 loss 0.5200681367989619 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 280 loss 0.7283618905655979 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 290 loss 0.6739069720114218 train acc 16/16 val acc 15/16
+Epoch 8 Batch_num 300 loss 0.4718327522102895 train acc 16/16 val acc 16/16
+Epoch 8 Batch_num 310 loss 0.7428423647745849 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 0 loss 0.010762034663524322 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 10 loss 1.2864506261878104 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 20 loss 0.8500127735178645 train acc 16/16 val acc 15/16
+Epoch 9 Batch_num 30 loss 1.1986987679437644 train acc 16/16 val acc 14/16
+Epoch 9 Batch_num 40 loss 1.0897448362275264 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 50 loss 0.619195738236037 train acc 16/16 val acc 15/16
+Epoch 9 Batch_num 60 loss 1.933811842231934 train acc 16/16 val acc 15/16
+Epoch 9 Batch_num 70 loss 0.7479457812505556 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 80 loss 0.9109674845561897 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 90 loss 0.7638433936752608 train acc 16/16 val acc 15/16
+Epoch 9 Batch_num 100 loss 0.48557234784416653 train acc 15/16 val acc 15/16
+Epoch 9 Batch_num 110 loss 0.542894577726988 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 120 loss 0.5440133641587603 train acc 16/16 val acc 15/16
+Epoch 9 Batch_num 130 loss 1.4422483957526244 train acc 16/16 val acc 15/16
+Epoch 9 Batch_num 140 loss 0.9860595317911465 train acc 16/16 val acc 15/16
+Epoch 9 Batch_num 150 loss 0.9363320079983803 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 160 loss 0.7463641471465804 train acc 16/16 val acc 15/16
+Epoch 9 Batch_num 170 loss 0.914263667974107 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 180 loss 1.1863311837887753 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 190 loss 0.8607227407504641 train acc 16/16 val acc 14/16
+Epoch 9 Batch_num 200 loss 0.901273453021942 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 210 loss 0.5531730227391969 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 220 loss 1.166151028998087 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 230 loss 0.8413266722384499 train acc 16/16 val acc 14/16
+Epoch 9 Batch_num 240 loss 1.3232012363975385 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 250 loss 0.6638711830213013 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 260 loss 0.520929977689808 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 270 loss 0.31387468564381893 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 280 loss 0.42708378108389583 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 290 loss 0.7840423404331258 train acc 16/16 val acc 16/16
+Epoch 9 Batch_num 300 loss 0.49055407419286845 train acc 15/16 val acc 16/16
+Epoch 9 Batch_num 310 loss 0.18122611798074922 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 0 loss 0.0002890081310972237 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 10 loss 1.716218241844826 train acc 16/16 val acc 15/16
+Epoch 10 Batch_num 20 loss 0.5737589760894678 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 30 loss 1.0447680988881227 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 40 loss 0.6025682286228791 train acc 16/16 val acc 15/16
+Epoch 10 Batch_num 50 loss 0.22803163432767587 train acc 16/16 val acc 15/16
+Epoch 10 Batch_num 60 loss 0.9265326291606543 train acc 16/16 val acc 15/16
+Epoch 10 Batch_num 70 loss 1.097413679946985 train acc 16/16 val acc 15/16
+Epoch 10 Batch_num 80 loss 0.6926349735483819 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 90 loss 0.5836328732160141 train acc 16/16 val acc 15/16
+Epoch 10 Batch_num 100 loss 1.2590152106011046 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 110 loss 0.3167265989770376 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 120 loss 0.7857855522783591 train acc 16/16 val acc 15/16
+Epoch 10 Batch_num 130 loss 0.4725598518237322 train acc 16/16 val acc 15/16
+Epoch 10 Batch_num 140 loss 0.4416350999503927 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 150 loss 0.29204002882286406 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 160 loss 0.9743914389717684 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 170 loss 0.5382937826032526 train acc 16/16 val acc 15/16
+Epoch 10 Batch_num 180 loss 0.4374770646334359 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 190 loss 1.0321395054142661 train acc 16/16 val acc 15/16
+Epoch 10 Batch_num 200 loss 0.7315069168942487 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 210 loss 0.4392877127614982 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 220 loss 0.8917294371232424 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 230 loss 0.7333566191524861 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 240 loss 1.2095931060048477 train acc 16/16 val acc 14/16
+Epoch 10 Batch_num 250 loss 0.13141862211528854 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 260 loss 1.0962432425229611 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 270 loss 0.3999371223089851 train acc 16/16 val acc 15/16
+Epoch 10 Batch_num 280 loss 0.7366082880657605 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 290 loss 0.48854699354971864 train acc 16/16 val acc 15/16
+Epoch 10 Batch_num 300 loss 0.8280780749870238 train acc 16/16 val acc 16/16
+Epoch 10 Batch_num 310 loss 0.5782749012939092 train acc 16/16 val acc 15/16
+Epoch 11 Batch_num 0 loss 0.001692474386400744 train acc 16/16 val acc 14/16
+Epoch 11 Batch_num 10 loss 1.454648739474631 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 20 loss 0.9373074927329356 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 30 loss 0.807445819179307 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 40 loss 0.7709323174850504 train acc 16/16 val acc 15/16
+Epoch 11 Batch_num 50 loss 1.2778154999424385 train acc 16/16 val acc 15/16
+Epoch 11 Batch_num 60 loss 0.5803643646155311 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 70 loss 0.4633777280230525 train acc 16/16 val acc 15/16
+Epoch 11 Batch_num 80 loss 0.2857943350179327 train acc 16/16 val acc 15/16
+Epoch 11 Batch_num 90 loss 0.9511216412842333 train acc 16/16 val acc 15/16
+Epoch 11 Batch_num 100 loss 1.7013554689574277 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 110 loss 0.37602305235365535 train acc 16/16 val acc 15/16
+Epoch 11 Batch_num 120 loss 0.6618178259435319 train acc 15/16 val acc 15/16
+Epoch 11 Batch_num 130 loss 1.0658278800934295 train acc 16/16 val acc 15/16
+Epoch 11 Batch_num 140 loss 0.49495862666414314 train acc 16/16 val acc 15/16
+Epoch 11 Batch_num 150 loss 1.0043517628510616 train acc 16/16 val acc 15/16
+Epoch 11 Batch_num 160 loss 1.0477153904710763 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 170 loss 0.9041963628579226 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 180 loss 0.9167980635068399 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 190 loss 0.4589575645419384 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 200 loss 0.3829116925908593 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 210 loss 1.004818089285292 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 220 loss 0.4507017549638509 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 230 loss 0.813234070302143 train acc 15/16 val acc 16/16
+Epoch 11 Batch_num 240 loss 1.0799277460519472 train acc 16/16 val acc 15/16
+Epoch 11 Batch_num 250 loss 0.27074395086393266 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 260 loss 0.8185224634065857 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 270 loss 0.20623714886344857 train acc 16/16 val acc 15/16
+Epoch 11 Batch_num 280 loss 0.42869327999145446 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 290 loss 0.6279592917613281 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 300 loss 0.3510226966474548 train acc 16/16 val acc 16/16
+Epoch 11 Batch_num 310 loss 0.6707593124416005 train acc 16/16 val acc 15/16
+Epoch 12 Batch_num 0 loss 0.0003091550059857173 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 10 loss 0.5074912304083729 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 20 loss 0.09052493916092236 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 30 loss 0.2538817997857738 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 40 loss 1.379946206283396 train acc 16/16 val acc 15/16
+Epoch 12 Batch_num 50 loss 0.6149304652555386 train acc 16/16 val acc 15/16
+Epoch 12 Batch_num 60 loss 0.23291855067342432 train acc 16/16 val acc 15/16
+Epoch 12 Batch_num 70 loss 1.0335182748960179 train acc 16/16 val acc 14/16
+Epoch 12 Batch_num 80 loss 0.5669737250788419 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 90 loss 1.3213191063887386 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 100 loss 1.2758238868603193 train acc 15/16 val acc 14/16
+Epoch 12 Batch_num 110 loss 0.6097826086639047 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 120 loss 0.6029967290786816 train acc 16/16 val acc 15/16
+Epoch 12 Batch_num 130 loss 0.5843138492865257 train acc 16/16 val acc 15/16
+Epoch 12 Batch_num 140 loss 0.62677727486029 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 150 loss 0.7409905382548624 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 160 loss 0.39348827582598445 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 170 loss 0.2505584324459402 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 180 loss 0.5979066627609461 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 190 loss 0.37194320981921547 train acc 16/16 val acc 15/16
+Epoch 12 Batch_num 200 loss 0.4702257915567507 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 210 loss 0.19850625322737037 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 220 loss 1.298263241013085 train acc 15/16 val acc 16/16
+Epoch 12 Batch_num 230 loss 0.5084065552960683 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 240 loss 1.556210281422151 train acc 16/16 val acc 15/16
+Epoch 12 Batch_num 250 loss 1.0997376696502048 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 260 loss 0.336028292778744 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 270 loss 0.8825239162633551 train acc 15/16 val acc 16/16
+Epoch 12 Batch_num 280 loss 0.34137221995879746 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 290 loss 1.117384947168687 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 300 loss 0.8530089029883938 train acc 16/16 val acc 16/16
+Epoch 12 Batch_num 310 loss 1.0659081969672743 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 0 loss 0.015719263884369228 train acc 15/16 val acc 16/16
+Epoch 13 Batch_num 10 loss 1.0112980828742295 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 20 loss 0.5986182338232973 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 30 loss 0.843971383511316 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 40 loss 0.6253620607756982 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 50 loss 0.17659274829186467 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 60 loss 0.24254275067086462 train acc 16/16 val acc 15/16
+Epoch 13 Batch_num 70 loss 0.6823820357089054 train acc 15/16 val acc 16/16
+Epoch 13 Batch_num 80 loss 0.6759212383597045 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 90 loss 0.4759872173203814 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 100 loss 0.5936870789916724 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 110 loss 0.28077830045247915 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 120 loss 0.49546965124001136 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 130 loss 0.7005196338690776 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 140 loss 0.5949140281942641 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 150 loss 1.0283702955867597 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 160 loss 0.3297726379072117 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 170 loss 0.4990266624226314 train acc 16/16 val acc 15/16
+Epoch 13 Batch_num 180 loss 0.6046693815097754 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 190 loss 0.36335829727435714 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 200 loss 0.1201476728151768 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 210 loss 0.933534541115808 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 220 loss 1.4718025816557099 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 230 loss 0.98952083126643 train acc 16/16 val acc 15/16
+Epoch 13 Batch_num 240 loss 0.5620900093730099 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 250 loss 0.29611796571752375 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 260 loss 0.9091685106319297 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 270 loss 0.19264475906389839 train acc 16/16 val acc 15/16
+Epoch 13 Batch_num 280 loss 0.8113034312850461 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 290 loss 0.547829922487274 train acc 16/16 val acc 16/16
+Epoch 13 Batch_num 300 loss 0.21315544879391835 train acc 16/16 val acc 15/16
+Epoch 13 Batch_num 310 loss 0.2393030301709531 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 0 loss 0.001327238869136882 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 10 loss 0.8168992072961786 train acc 15/16 val acc 16/16
+Epoch 14 Batch_num 20 loss 0.3332878800889826 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 30 loss 0.6711881067131484 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 40 loss 0.18118477081442214 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 50 loss 0.13196401300688454 train acc 16/16 val acc 15/16
+Epoch 14 Batch_num 60 loss 0.4171120415491483 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 70 loss 0.33898012984359494 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 80 loss 0.9083683914974807 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 90 loss 0.8793882270320942 train acc 15/16 val acc 16/16
+Epoch 14 Batch_num 100 loss 1.267284318399964 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 110 loss 0.5189276158828985 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 120 loss 0.2378794732293515 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 130 loss 0.2501282597628643 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 140 loss 0.04843459935823108 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 150 loss 0.36841640421240635 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 160 loss 1.0416200367978152 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 170 loss 2.0831012979770733 train acc 15/16 val acc 16/16
+Epoch 14 Batch_num 180 loss 0.4693084916436796 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 190 loss 0.4650084463791819 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 200 loss 0.23674830907714384 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 210 loss 0.3491207934582374 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 220 loss 1.219612489550327 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 230 loss 0.6963208631472222 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 240 loss 0.7053636305265161 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 250 loss 0.17353795584168977 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 260 loss 0.7258617392436324 train acc 16/16 val acc 15/16
+Epoch 14 Batch_num 270 loss 0.7684261260511567 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 280 loss 0.3349694512922848 train acc 16/16 val acc 15/16
+Epoch 14 Batch_num 290 loss 0.25670172249090245 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 300 loss 0.46810698047236105 train acc 16/16 val acc 16/16
+Epoch 14 Batch_num 310 loss 0.23305452050850778 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 0 loss 3.834873161667751e-05 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 10 loss 1.2678299024343815 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 20 loss 0.5488341917281039 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 30 loss 0.9769225588754828 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 40 loss 0.7841760832341047 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 50 loss 0.287412965637668 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 60 loss 1.1242446003294917 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 70 loss 0.46864825420303696 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 80 loss 0.37085450754045285 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 90 loss 0.3736989035547788 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 100 loss 0.33640132116071025 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 110 loss 0.4659803476819013 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 120 loss 1.2964929199633755 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 130 loss 0.46741266740746945 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 140 loss 0.6164532706926559 train acc 16/16 val acc 15/16
+Epoch 15 Batch_num 150 loss 0.3880906754447048 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 160 loss 0.6666336429026908 train acc 16/16 val acc 15/16
+Epoch 15 Batch_num 170 loss 0.5961542478253692 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 180 loss 0.46491820335491757 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 190 loss 0.6430206939291228 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 200 loss 0.48322781026369166 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 210 loss 0.5201957590868959 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 220 loss 0.543306863018956 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 230 loss 0.9513141154288449 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 240 loss 0.761689241681756 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 250 loss 0.5006766370427924 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 260 loss 0.30272155457815175 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 270 loss 0.13445558905835342 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 280 loss 0.17720306749098935 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 290 loss 0.6916240842222244 train acc 16/16 val acc 16/16
+Epoch 15 Batch_num 300 loss 0.7365950913044155 train acc 15/16 val acc 16/16
+Epoch 15 Batch_num 310 loss 0.8692043194749002 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 0 loss 0.0010054381475224083 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 10 loss 0.3534343989944513 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 20 loss 0.5256587757750961 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 30 loss 0.15433674782320417 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 40 loss 0.4741657366063606 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 50 loss 0.5378218404310675 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 60 loss 0.7325677836213591 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 70 loss 0.9295428584508252 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 80 loss 1.1191915491936442 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 90 loss 1.1834836240251936 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 100 loss 0.18906896682549842 train acc 16/16 val acc 15/16
+Epoch 16 Batch_num 110 loss 0.41166011403334 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 120 loss 0.4255521567252457 train acc 16/16 val acc 15/16
+Epoch 16 Batch_num 130 loss 0.9315220453534157 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 140 loss 0.24601899644426017 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 150 loss 0.5083959150189548 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 160 loss 0.4993408579431876 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 170 loss 0.493755211155191 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 180 loss 0.3211114765995436 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 190 loss 0.318653102833832 train acc 16/16 val acc 15/16
+Epoch 16 Batch_num 200 loss 0.08261385405624011 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 210 loss 0.45494158159502784 train acc 16/16 val acc 15/16
+Epoch 16 Batch_num 220 loss 0.679526409217106 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 230 loss 0.5759278694464149 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 240 loss 0.899156176451743 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 250 loss 0.4348552545080339 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 260 loss 0.8370432310135733 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 270 loss 0.8433187113184784 train acc 16/16 val acc 15/16
+Epoch 16 Batch_num 280 loss 0.8188343522593293 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 290 loss 0.9169512420087248 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 300 loss 0.4866681012629237 train acc 16/16 val acc 16/16
+Epoch 16 Batch_num 310 loss 0.5575197528085597 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 0 loss 0.00020188283498356885 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 10 loss 0.40190862657612497 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 20 loss 0.4520860617931341 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 30 loss 0.6564144838356009 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 40 loss 0.24498686707779235 train acc 15/16 val acc 16/16
+Epoch 17 Batch_num 50 loss 0.4645241278041767 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 60 loss 0.626388540395061 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 70 loss 0.645728761203309 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 80 loss 0.40446876468318205 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 90 loss 0.21912113570694775 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 100 loss 0.8715822400846722 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 110 loss 0.14581079626331728 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 120 loss 0.3259947185875202 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 130 loss 0.7532580764596415 train acc 16/16 val acc 15/16
+Epoch 17 Batch_num 140 loss 0.3835868679862258 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 150 loss 0.1542329917849114 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 160 loss 0.8720382609453435 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 170 loss 1.0168580258704258 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 180 loss 0.8341139372727381 train acc 16/16 val acc 15/16
+Epoch 17 Batch_num 190 loss 0.4864665647352655 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 200 loss 0.16652543002297737 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 210 loss 0.8970089718157547 train acc 16/16 val acc 15/16
+Epoch 17 Batch_num 220 loss 0.4171078280052301 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 230 loss 0.4693900413239873 train acc 16/16 val acc 15/16
+Epoch 17 Batch_num 240 loss 0.47164728216823487 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 250 loss 0.3235862692450231 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 260 loss 0.7161237748113398 train acc 15/16 val acc 16/16
+Epoch 17 Batch_num 270 loss 0.31113034391156763 train acc 16/16 val acc 15/16
+Epoch 17 Batch_num 280 loss 0.1609027516361532 train acc 16/16 val acc 16/16
+Epoch 17 Batch_num 290 loss 0.48909428880688477 train acc 15/16 val acc 15/16
+Epoch 17 Batch_num 300 loss 0.3996561487043246 train acc 16/16 val acc 15/16
+Epoch 17 Batch_num 310 loss 0.39943603263682337 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 0 loss 0.006841281121193865 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 10 loss 0.33226343858160334 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 20 loss 0.6642059896910973 train acc 16/16 val acc 15/16
+Epoch 18 Batch_num 30 loss 0.6453410837910133 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 40 loss 1.0986725443840593 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 50 loss 0.3917805894379868 train acc 16/16 val acc 15/16
+Epoch 18 Batch_num 60 loss 0.467758829993739 train acc 16/16 val acc 15/16
+Epoch 18 Batch_num 70 loss 0.4253764897665639 train acc 16/16 val acc 14/16
+Epoch 18 Batch_num 80 loss 0.43808202471540447 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 90 loss 0.4981536969395428 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 100 loss 0.56028266031409 train acc 16/16 val acc 15/16
+Epoch 18 Batch_num 110 loss 0.17800726577740872 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 120 loss 0.2886836450327891 train acc 16/16 val acc 15/16
+Epoch 18 Batch_num 130 loss 0.5867669857682299 train acc 16/16 val acc 15/16
+Epoch 18 Batch_num 140 loss 0.14597308344921628 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 150 loss 0.3287692910958977 train acc 16/16 val acc 15/16
+Epoch 18 Batch_num 160 loss 0.27727219527528446 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 170 loss 0.46367656286522513 train acc 16/16 val acc 15/16
+Epoch 18 Batch_num 180 loss 0.8711900855250941 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 190 loss 0.24729684642999766 train acc 16/16 val acc 15/16
+Epoch 18 Batch_num 200 loss 0.21177191099037218 train acc 16/16 val acc 15/16
+Epoch 18 Batch_num 210 loss 0.5124678218220885 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 220 loss 0.5554911454416497 train acc 16/16 val acc 15/16
+Epoch 18 Batch_num 230 loss 0.108435882475171 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 240 loss 0.21059212620553608 train acc 16/16 val acc 15/16
+Epoch 18 Batch_num 250 loss 0.13527578530183237 train acc 16/16 val acc 15/16
+Epoch 18 Batch_num 260 loss 0.22715149189167658 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 270 loss 0.4389720607352641 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 280 loss 0.214599687129648 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 290 loss 0.9706345553337254 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 300 loss 0.14591066651068063 train acc 16/16 val acc 16/16
+Epoch 18 Batch_num 310 loss 0.7173089410263942 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 0 loss 0.0032689489774884173 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 10 loss 0.29434228264751333 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 20 loss 0.1505125201972956 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 30 loss 0.32964682239550547 train acc 16/16 val acc 15/16
+Epoch 19 Batch_num 40 loss 0.3208690655013723 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 50 loss 0.9392929984564866 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 60 loss 0.5141454746282226 train acc 16/16 val acc 15/16
+Epoch 19 Batch_num 70 loss 1.0791144123410699 train acc 16/16 val acc 14/16
+Epoch 19 Batch_num 80 loss 1.3345760374516522 train acc 16/16 val acc 15/16
+Epoch 19 Batch_num 90 loss 0.7037354031076541 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 100 loss 0.36165099253097865 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 110 loss 0.29916511808263213 train acc 16/16 val acc 15/16
+Epoch 19 Batch_num 120 loss 0.2650954400822739 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 130 loss 0.6541705247205492 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 140 loss 0.5566546993610088 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 150 loss 0.39838814170906245 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 160 loss 0.7367587279682606 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 170 loss 0.5599984849708092 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 180 loss 1.054489859964102 train acc 16/16 val acc 15/16
+Epoch 19 Batch_num 190 loss 1.049824829908733 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 200 loss 0.32817856503081766 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 210 loss 0.6842562441979587 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 220 loss 0.12099797104008625 train acc 16/16 val acc 15/16
+Epoch 19 Batch_num 230 loss 0.3359004509437722 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 240 loss 0.6646838996133092 train acc 16/16 val acc 15/16
+Epoch 19 Batch_num 250 loss 0.2861252196063939 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 260 loss 0.5463172313532458 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 270 loss 0.40945520019188864 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 280 loss 0.2546012067388947 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 290 loss 0.18028763545368903 train acc 16/16 val acc 16/16
+Epoch 19 Batch_num 300 loss 0.482759948465552 train acc 16/16 val acc 15/16
+Epoch 19 Batch_num 310 loss 0.6611316547419485 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 0 loss 0.000219299979777543 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 10 loss 0.7354822086174926 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 20 loss 0.15053644976697123 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 30 loss 0.24183714800360756 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 40 loss 0.15152687843908708 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 50 loss 0.1077787604787564 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 60 loss 0.7542717003736015 train acc 16/16 val acc 16/16
+Epoch 20 Batch_num 70 loss 0.24059488398348244 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 80 loss 0.8878328691260129 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 90 loss 0.52343281161003 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 100 loss 0.46438251157851185 train acc 16/16 val acc 16/16
+Epoch 20 Batch_num 110 loss 0.27423992445628953 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 120 loss 0.7885574316485403 train acc 16/16 val acc 14/16
+Epoch 20 Batch_num 130 loss 0.33946744291886727 train acc 15/16 val acc 15/16
+Epoch 20 Batch_num 140 loss 0.2186502516646311 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 150 loss 0.06641797956618073 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 160 loss 0.4052632376112052 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 170 loss 2.222697089094253 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 180 loss 0.20936435936568265 train acc 16/16 val acc 16/16
+Epoch 20 Batch_num 190 loss 0.3695196698110184 train acc 16/16 val acc 16/16
+Epoch 20 Batch_num 200 loss 0.45771012682013373 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 210 loss 0.829223269419995 train acc 16/16 val acc 16/16
+Epoch 20 Batch_num 220 loss 0.3728895125999855 train acc 16/16 val acc 16/16
+Epoch 20 Batch_num 230 loss 0.43367538601709865 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 240 loss 1.2144658617179627 train acc 16/16 val acc 16/16
+Epoch 20 Batch_num 250 loss 0.3654919848478737 train acc 16/16 val acc 16/16
+Epoch 20 Batch_num 260 loss 0.5452117352573036 train acc 16/16 val acc 16/16
+Epoch 20 Batch_num 270 loss 0.1058788810488206 train acc 16/16 val acc 16/16
+Epoch 20 Batch_num 280 loss 0.2985588591245311 train acc 16/16 val acc 16/16
+Epoch 20 Batch_num 290 loss 0.43693324993278426 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 300 loss 0.1735983992551034 train acc 16/16 val acc 15/16
+Epoch 20 Batch_num 310 loss 0.09225277710390906 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 0 loss 0.00021761869939540546 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 10 loss 0.6533914142362158 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 20 loss 0.47281620190205215 train acc 16/16 val acc 15/16
+Epoch 21 Batch_num 30 loss 1.1130962778532525 train acc 16/16 val acc 15/16
+Epoch 21 Batch_num 40 loss 0.9020939553256139 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 50 loss 0.5387285975425006 train acc 16/16 val acc 15/16
+Epoch 21 Batch_num 60 loss 1.0976885063433774 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 70 loss 0.6006626829224906 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 80 loss 0.3725231224823006 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 90 loss 0.2615336290851795 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 100 loss 1.4562985006681821 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 110 loss 0.06810758109168252 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 120 loss 0.34817290579293503 train acc 16/16 val acc 15/16
+Epoch 21 Batch_num 130 loss 0.6162627647635047 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 140 loss 0.5297936047077554 train acc 15/16 val acc 16/16
+Epoch 21 Batch_num 150 loss 0.32478597919752694 train acc 15/16 val acc 16/16
+Epoch 21 Batch_num 160 loss 0.3813686788576775 train acc 16/16 val acc 15/16
+Epoch 21 Batch_num 170 loss 0.13083637050271657 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 180 loss 0.4720622589866925 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 190 loss 0.29276822196961694 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 200 loss 0.040180056358089966 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 210 loss 0.15811584904236675 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 220 loss 0.18137274805286718 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 230 loss 0.20065295951613277 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 240 loss 0.5469079430029078 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 250 loss 0.7175968306506783 train acc 16/16 val acc 15/16
+Epoch 21 Batch_num 260 loss 1.205956242181188 train acc 16/16 val acc 15/16
+Epoch 21 Batch_num 270 loss 0.6758103543489116 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 280 loss 0.7933370802220097 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 290 loss 0.4121604520823392 train acc 15/16 val acc 14/16
+Epoch 21 Batch_num 300 loss 1.0370075944739987 train acc 16/16 val acc 16/16
+Epoch 21 Batch_num 310 loss 0.4341289783619325 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 0 loss 0.0002299010079502839 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 10 loss 0.7003313233739447 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 20 loss 0.23809429006032923 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 30 loss 0.32982353700265615 train acc 16/16 val acc 15/16
+Epoch 22 Batch_num 40 loss 0.1535588599799826 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 50 loss 0.5955164780765165 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 60 loss 0.5594677521266361 train acc 16/16 val acc 15/16
+Epoch 22 Batch_num 70 loss 1.4021345758384431 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 80 loss 0.8711898717438709 train acc 16/16 val acc 15/16
+Epoch 22 Batch_num 90 loss 0.5592632422058478 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 100 loss 0.20653893681592733 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 110 loss 0.08020113921398686 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 120 loss 0.4984816916565695 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 130 loss 0.09606169665752856 train acc 16/16 val acc 15/16
+Epoch 22 Batch_num 140 loss 0.33261016019873507 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 150 loss 0.2927245995507162 train acc 16/16 val acc 15/16
+Epoch 22 Batch_num 160 loss 0.45363958451168007 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 170 loss 0.43719005432421865 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 180 loss 0.14508187491631006 train acc 16/16 val acc 15/16
+Epoch 22 Batch_num 190 loss 0.7386141655666605 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 200 loss 0.46640305570655705 train acc 16/16 val acc 15/16
+Epoch 22 Batch_num 210 loss 1.3334869393669808 train acc 16/16 val acc 15/16
+Epoch 22 Batch_num 220 loss 1.0812904723832935 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 230 loss 0.476679710797309 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 240 loss 0.45596976475870826 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 250 loss 0.44500952325570736 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 260 loss 0.5454652432712825 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 270 loss 0.2591261656075263 train acc 16/16 val acc 15/16
+Epoch 22 Batch_num 280 loss 0.49660176131525124 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 290 loss 0.5247992242726831 train acc 15/16 val acc 16/16
+Epoch 22 Batch_num 300 loss 0.2480487157319951 train acc 16/16 val acc 16/16
+Epoch 22 Batch_num 310 loss 0.26913777969838354 train acc 16/16 val acc 15/16
+Epoch 23 Batch_num 0 loss 0.0022376618157964323 train acc 16/16 val acc 15/16
+Epoch 23 Batch_num 10 loss 0.36873069195628666 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 20 loss 0.13011130428484707 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 30 loss 0.5619842122049736 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 40 loss 0.15879064723660913 train acc 16/16 val acc 14/16
+Epoch 23 Batch_num 50 loss 0.5715487173785555 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 60 loss 0.6659913408985128 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 70 loss 0.7561972986274363 train acc 16/16 val acc 15/16
+Epoch 23 Batch_num 80 loss 0.617290016055206 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 90 loss 0.1565542104364705 train acc 16/16 val acc 15/16
+Epoch 23 Batch_num 100 loss 0.592400832794798 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 110 loss 0.11863253063174234 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 120 loss 0.13533374127278253 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 130 loss 0.7541917093782383 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 140 loss 0.2589701915209839 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 150 loss 0.07878885147248471 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 160 loss 0.4957300976167169 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 170 loss 0.8318369550410116 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 180 loss 0.4857006692952037 train acc 16/16 val acc 15/16
+Epoch 23 Batch_num 190 loss 0.32400031107778576 train acc 16/16 val acc 15/16
+Epoch 23 Batch_num 200 loss 0.052072757564770145 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 210 loss 0.4097561945642527 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 220 loss 0.3501523887121188 train acc 16/16 val acc 15/16
+Epoch 23 Batch_num 230 loss 0.7228285011808717 train acc 16/16 val acc 15/16
+Epoch 23 Batch_num 240 loss 0.47766561503673716 train acc 16/16 val acc 15/16
+Epoch 23 Batch_num 250 loss 0.26769805997290735 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 260 loss 0.34125588323467054 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 270 loss 0.887285998391914 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 280 loss 0.21243691741690096 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 290 loss 0.33359574446180357 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 300 loss 0.6157792134218427 train acc 16/16 val acc 16/16
+Epoch 23 Batch_num 310 loss 0.3323325546514133 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 0 loss 1.0959195866688809e-05 train acc 16/16 val acc 15/16
+Epoch 24 Batch_num 10 loss 0.325240911257726 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 20 loss 0.28730208937935137 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 30 loss 1.0392460100275618 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 40 loss 0.6517068370121035 train acc 15/16 val acc 15/16
+Epoch 24 Batch_num 50 loss 0.12031243433274955 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 60 loss 0.13607892742239647 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 70 loss 1.459078120482737 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 80 loss 0.8516707215644321 train acc 16/16 val acc 14/16
+Epoch 24 Batch_num 90 loss 0.39979158328139863 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 100 loss 0.24973149290065977 train acc 16/16 val acc 15/16
+Epoch 24 Batch_num 110 loss 0.2544493909619876 train acc 16/16 val acc 15/16
+Epoch 24 Batch_num 120 loss 0.44592322187260514 train acc 16/16 val acc 15/16
+Epoch 24 Batch_num 130 loss 0.1839601782750701 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 140 loss 0.6488530214051984 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 150 loss 0.2618501664655335 train acc 16/16 val acc 15/16
+Epoch 24 Batch_num 160 loss 0.4090988874785852 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 170 loss 0.22159212024271802 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 180 loss 0.9350627201437582 train acc 15/16 val acc 14/16
+Epoch 24 Batch_num 190 loss 0.37399597619565456 train acc 16/16 val acc 15/16
+Epoch 24 Batch_num 200 loss 0.6804132091692179 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 210 loss 0.5989986470321259 train acc 16/16 val acc 15/16
+Epoch 24 Batch_num 220 loss 0.10842304994262131 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 230 loss 0.36178400170913694 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 240 loss 0.31543399644338316 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 250 loss 0.407043984627644 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 260 loss 0.6287200721239941 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 270 loss 0.332868978909299 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 280 loss 0.18805568926615807 train acc 16/16 val acc 15/16
+Epoch 24 Batch_num 290 loss 0.5256641009538539 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 300 loss 0.4409782380453472 train acc 16/16 val acc 16/16
+Epoch 24 Batch_num 310 loss 0.1292327439261215 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 0 loss 0.00021905400145083576 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 10 loss 0.19231779838515836 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 20 loss 0.3417382091941005 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 30 loss 0.595886517263341 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 40 loss 0.10083763133190263 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 50 loss 0.5868267441588088 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 60 loss 0.28034307362242183 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 70 loss 0.5556954753668084 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 80 loss 0.31321701022989645 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 90 loss 0.8532941458938751 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 100 loss 0.6233670588306123 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 110 loss 0.07854704041186339 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 120 loss 0.043776937456528775 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 130 loss 0.24464881076995415 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 140 loss 0.5520192170546634 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 150 loss 0.31024707566662624 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 160 loss 0.34244068859185745 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 170 loss 0.3411328282276046 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 180 loss 0.39140245744710495 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 190 loss 0.14748673351819447 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 200 loss 0.0924942716964462 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 210 loss 0.13870776331464207 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 220 loss 0.17458512128387582 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 230 loss 0.4302817454388929 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 240 loss 0.4251197147196178 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 250 loss 0.38808275328276376 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 260 loss 0.36214148160908455 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 270 loss 0.2007641024714577 train acc 16/16 val acc 15/16
+Epoch 25 Batch_num 280 loss 0.4455986608110456 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 290 loss 0.6638360448414743 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 300 loss 0.21024120212408196 train acc 16/16 val acc 16/16
+Epoch 25 Batch_num 310 loss 0.27177254795838907 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 0 loss 0.0003470911283203204 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 10 loss 0.6066776650296909 train acc 16/16 val acc 15/16
+Epoch 26 Batch_num 20 loss 0.2701086938652478 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 30 loss 0.8599998395980475 train acc 14/16 val acc 14/16
+Epoch 26 Batch_num 40 loss 2.824190877667723 train acc 16/16 val acc 15/16
+Epoch 26 Batch_num 50 loss 0.7842042790374966 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 60 loss 0.45573451980104834 train acc 16/16 val acc 15/16
+Epoch 26 Batch_num 70 loss 0.4325902423121923 train acc 16/16 val acc 15/16
+Epoch 26 Batch_num 80 loss 0.8694912433546684 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 90 loss 0.25725786446769827 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 100 loss 0.5705106278658474 train acc 16/16 val acc 15/16
+Epoch 26 Batch_num 110 loss 0.2978889053462142 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 120 loss 0.21561661482656697 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 130 loss 0.3965935061972708 train acc 16/16 val acc 15/16
+Epoch 26 Batch_num 140 loss 0.47407618094278625 train acc 16/16 val acc 15/16
+Epoch 26 Batch_num 150 loss 0.1708926749945454 train acc 16/16 val acc 15/16
+Epoch 26 Batch_num 160 loss 0.18564486530942492 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 170 loss 0.15871106731051926 train acc 16/16 val acc 15/16
+Epoch 26 Batch_num 180 loss 0.8849972769315793 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 190 loss 0.021963855565549917 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 200 loss 0.17182849541944284 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 210 loss 0.2139990478329687 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 220 loss 0.1758883319776316 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 230 loss 0.09666299807567275 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 240 loss 0.1814123075953895 train acc 16/16 val acc 15/16
+Epoch 26 Batch_num 250 loss 0.03837763901194824 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 260 loss 0.22960887639526545 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 270 loss 0.06027019328235245 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 280 loss 1.4113091689079782 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 290 loss 0.0628075951681008 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 300 loss 0.24658533069863237 train acc 16/16 val acc 16/16
+Epoch 26 Batch_num 310 loss 0.5046922906789277 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 0 loss 4.406322586036904e-05 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 10 loss 0.2576176730362435 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 20 loss 0.19554337440697706 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 30 loss 0.11492293897995476 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 40 loss 0.0820440530322013 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 50 loss 0.353471896475876 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 60 loss 0.1215844343659957 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 70 loss 0.6875748952435241 train acc 15/16 val acc 15/16
+Epoch 27 Batch_num 80 loss 0.11101811925279065 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 90 loss 0.3052387204658854 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 100 loss 0.1464611190690427 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 110 loss 0.0951335669608962 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 120 loss 0.15303323675359282 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 130 loss 0.09226954202835314 train acc 16/16 val acc 15/16
+Epoch 27 Batch_num 140 loss 0.030948129242970024 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 150 loss 0.2637756677206811 train acc 16/16 val acc 15/16
+Epoch 27 Batch_num 160 loss 0.36400762216655186 train acc 16/16 val acc 15/16
+Epoch 27 Batch_num 170 loss 0.09963207249718836 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 180 loss 0.3631963353786648 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 190 loss 0.5745416736542976 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 200 loss 0.3526825181500791 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 210 loss 0.3002176570402712 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 220 loss 0.6156769414538925 train acc 16/16 val acc 15/16
+Epoch 27 Batch_num 230 loss 0.4455329311874969 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 240 loss 0.957312249438906 train acc 16/16 val acc 15/16
+Epoch 27 Batch_num 250 loss 0.4662288115906908 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 260 loss 1.48980803608702 train acc 16/16 val acc 15/16
+Epoch 27 Batch_num 270 loss 0.9977845870473676 train acc 16/16 val acc 15/16
+Epoch 27 Batch_num 280 loss 0.5459295882498888 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 290 loss 0.5937872588092474 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 300 loss 0.6019016347647832 train acc 16/16 val acc 16/16
+Epoch 27 Batch_num 310 loss 0.4016111668385767 train acc 16/16 val acc 15/16
+Epoch 28 Batch_num 0 loss 9.685750419841099e-05 train acc 15/16 val acc 16/16
+Epoch 28 Batch_num 10 loss 0.18932724708092932 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 20 loss 0.2598686248722331 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 30 loss 0.13190405936637872 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 40 loss 0.3073460651334162 train acc 16/16 val acc 15/16
+Epoch 28 Batch_num 50 loss 0.21150562928104605 train acc 15/16 val acc 16/16
+Epoch 28 Batch_num 60 loss 0.7353535339783752 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 70 loss 0.7607818203745835 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 80 loss 0.3682209272561988 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 90 loss 0.45402416890116976 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 100 loss 0.44574634411449743 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 110 loss 0.6126111337169128 train acc 16/16 val acc 15/16
+Epoch 28 Batch_num 120 loss 0.3686793182809491 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 130 loss 0.26579286795635526 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 140 loss 0.25113063613106024 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 150 loss 0.7558126443067481 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 160 loss 0.3930336240578358 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 170 loss 0.1551997221208667 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 180 loss 0.008472637989741072 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 190 loss 0.08265064007062384 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 200 loss 0.07364177291969798 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 210 loss 0.12154414594608648 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 220 loss 0.41695104739470173 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 230 loss 0.24124242523671952 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 240 loss 0.10435543886585263 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 250 loss 0.020300497011102314 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 260 loss 0.1764310892662942 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 270 loss 0.30043641083604244 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 280 loss 0.18195416658532937 train acc 15/16 val acc 16/16
+Epoch 28 Batch_num 290 loss 0.26677074962698005 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 300 loss 0.10212924732589712 train acc 16/16 val acc 16/16
+Epoch 28 Batch_num 310 loss 0.38200798250304013 train acc 16/16 val acc 15/16
+Epoch 29 Batch_num 0 loss 7.521884501593412e-06 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 10 loss 0.7280156359174241 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 20 loss 0.15628229546428696 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 30 loss 0.6427471282899836 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 40 loss 0.4930143898179561 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 50 loss 0.22269693301517252 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 60 loss 0.2793124726329603 train acc 16/16 val acc 15/16
+Epoch 29 Batch_num 70 loss 0.08929117238167372 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 80 loss 1.4674545705967579 train acc 16/16 val acc 15/16
+Epoch 29 Batch_num 90 loss 0.21465397542600284 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 100 loss 0.15741089794735091 train acc 16/16 val acc 15/16
+Epoch 29 Batch_num 110 loss 0.35825536973527033 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 120 loss 0.05732706199259707 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 130 loss 0.21990765927231093 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 140 loss 0.4269981726412216 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 150 loss 0.23021511782490373 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 160 loss 0.09945114425562884 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 170 loss 1.2570795661901144 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 180 loss 0.3096492465703043 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 190 loss 0.05833408765073189 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 200 loss 0.11788407492993647 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 210 loss 0.0645584083737587 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 220 loss 0.17248602565136004 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 230 loss 0.04360283990185515 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 240 loss 0.6287503819465328 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 250 loss 0.1555766403849998 train acc 16/16 val acc 15/16
+Epoch 29 Batch_num 260 loss 0.12221180893728567 train acc 16/16 val acc 15/16
+Epoch 29 Batch_num 270 loss 0.17944669183351764 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 280 loss 0.2631367623193115 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 290 loss 0.24608659906248803 train acc 16/16 val acc 15/16
+Epoch 29 Batch_num 300 loss 0.03962414261246039 train acc 16/16 val acc 16/16
+Epoch 29 Batch_num 310 loss 0.07455761700613178 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 0 loss 3.0605414220730154e-06 train acc 16/16 val acc 15/16
+Epoch 30 Batch_num 10 loss 0.5760733183925759 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 20 loss 0.010271346417327742 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 30 loss 0.3757967996510932 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 40 loss 0.37602981852557804 train acc 16/16 val acc 15/16
+Epoch 30 Batch_num 50 loss 0.16185142135912456 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 60 loss 0.15973343352593578 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 70 loss 0.4399028200387343 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 80 loss 0.5214733101491416 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 90 loss 0.4240577237226776 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 100 loss 0.4748304318541616 train acc 16/16 val acc 15/16
+Epoch 30 Batch_num 110 loss 0.010979082073031998 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 120 loss 0.34170339866316063 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 130 loss 0.45608411740263416 train acc 16/16 val acc 15/16
+Epoch 30 Batch_num 140 loss 0.05495142638198147 train acc 16/16 val acc 15/16
+Epoch 30 Batch_num 150 loss 0.12100635675965454 train acc 16/16 val acc 15/16
+Epoch 30 Batch_num 160 loss 0.17319944899677076 train acc 16/16 val acc 15/16
+Epoch 30 Batch_num 170 loss 0.4078216623389118 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 180 loss 0.10273454920104114 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 190 loss 0.1046769365705209 train acc 16/16 val acc 15/16
+Epoch 30 Batch_num 200 loss 0.13998746085153213 train acc 16/16 val acc 15/16
+Epoch 30 Batch_num 210 loss 0.1582645817174032 train acc 16/16 val acc 15/16
+Epoch 30 Batch_num 220 loss 0.5862034609924275 train acc 16/16 val acc 15/16
+Epoch 30 Batch_num 230 loss 0.09178734829178747 train acc 16/16 val acc 15/16
+Epoch 30 Batch_num 240 loss 0.5031188647300352 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 250 loss 0.2306244328978282 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 260 loss 0.06772087372761271 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 270 loss 0.4644939209262755 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 280 loss 0.09327753506697745 train acc 16/16 val acc 15/16
+Epoch 30 Batch_num 290 loss 0.03518304026728952 train acc 16/16 val acc 16/16
+Epoch 30 Batch_num 300 loss 0.15259328106059283 train acc 16/16 val acc 15/16
+Epoch 30 Batch_num 310 loss 0.13618051837631895 train acc 16/16 val acc 15/16
+Epoch 31 Batch_num 0 loss 0.000201735139705006 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 10 loss 0.5532875587857008 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 20 loss 0.021372224386924543 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 30 loss 0.025440061163604977 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 40 loss 0.2105996603190632 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 50 loss 0.17460340413997832 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 60 loss 0.39037875669779276 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 70 loss 0.45174952547605035 train acc 15/16 val acc 16/16
+Epoch 31 Batch_num 80 loss 1.1374108770630116 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 90 loss 0.5585487974343444 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 100 loss 0.20411290270104648 train acc 16/16 val acc 15/16
+Epoch 31 Batch_num 110 loss 0.5871387793150762 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 120 loss 0.08288081157441901 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 130 loss 0.041367807765268105 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 140 loss 0.6208989882049308 train acc 16/16 val acc 14/16
+Epoch 31 Batch_num 150 loss 0.19076885538041638 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 160 loss 0.8654637045095559 train acc 16/16 val acc 15/16
+Epoch 31 Batch_num 170 loss 0.23855470403890716 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 180 loss 0.03155073955080545 train acc 16/16 val acc 15/16
+Epoch 31 Batch_num 190 loss 0.447794739024841 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 200 loss 0.343391701464265 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 210 loss 0.1775523259361952 train acc 16/16 val acc 15/16
+Epoch 31 Batch_num 220 loss 0.456287773357255 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 230 loss 0.18406041745141827 train acc 16/16 val acc 15/16
+Epoch 31 Batch_num 240 loss 0.8173247860494622 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 250 loss 0.16081027037572687 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 260 loss 0.37640944158269823 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 270 loss 0.6731404903859013 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 280 loss 0.02814211579354886 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 290 loss 0.4307548944616929 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 300 loss 0.06554286770875212 train acc 16/16 val acc 16/16
+Epoch 31 Batch_num 310 loss 0.3696621586432073 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 0 loss 0.0016249499132837686 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 10 loss 0.41486267472217 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 20 loss 0.941072763747159 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 30 loss 0.06259146468515425 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 40 loss 0.15926473099683078 train acc 16/16 val acc 15/16
+Epoch 32 Batch_num 50 loss 0.241994009271188 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 60 loss 0.13009754622937597 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 70 loss 0.7515961620679227 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 80 loss 0.9357971828378244 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 90 loss 0.23698406943041583 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 100 loss 0.3083740846338024 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 110 loss 0.5860853992749258 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 120 loss 0.8496713026044845 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 130 loss 0.5276298860648089 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 140 loss 0.10274367836158932 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 150 loss 0.25965754833510146 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 160 loss 0.048750193958235544 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 170 loss 0.7167431018809679 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 180 loss 0.14738556743142261 train acc 16/16 val acc 15/16
+Epoch 32 Batch_num 190 loss 0.11586658920588269 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 200 loss 0.5756581161932437 train acc 16/16 val acc 15/16
+Epoch 32 Batch_num 210 loss 0.4153962163506967 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 220 loss 0.4443153496570608 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 230 loss 0.744319743466525 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 240 loss 0.17469473329094004 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 250 loss 0.409243018317838 train acc 15/16 val acc 15/16
+Epoch 32 Batch_num 260 loss 0.5108677532740111 train acc 16/16 val acc 15/16
+Epoch 32 Batch_num 270 loss 0.30392503409263005 train acc 16/16 val acc 15/16
+Epoch 32 Batch_num 280 loss 0.3669470042184545 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 290 loss 0.281711327308366 train acc 16/16 val acc 16/16
+Epoch 32 Batch_num 300 loss 0.4557318339092501 train acc 16/16 val acc 15/16
+Epoch 32 Batch_num 310 loss 0.24413511563554913 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 0 loss 7.177913325540075e-05 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 10 loss 0.4512505597390529 train acc 16/16 val acc 15/16
+Epoch 33 Batch_num 20 loss 0.4288752052597057 train acc 16/16 val acc 15/16
+Epoch 33 Batch_num 30 loss 0.6038031575245538 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 40 loss 0.3366786514443172 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 50 loss 0.12421986980137201 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 60 loss 0.45983222382881705 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 70 loss 0.8789978649127854 train acc 16/16 val acc 15/16
+Epoch 33 Batch_num 80 loss 0.465580312291968 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 90 loss 0.2600871190944288 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 100 loss 0.3528410423053342 train acc 16/16 val acc 15/16
+Epoch 33 Batch_num 110 loss 0.07239361718699355 train acc 16/16 val acc 15/16
+Epoch 33 Batch_num 120 loss 0.13166019996225153 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 130 loss 1.1768411557426819 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 140 loss 0.18517773562857415 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 150 loss 0.31864382192134516 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 160 loss 0.3722181895658391 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 170 loss 0.42355982797776137 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 180 loss 0.4765685294443743 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 190 loss 0.12430595078393891 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 200 loss 0.2423877357757634 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 210 loss 0.2394226132614261 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 220 loss 0.7118221666395654 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 230 loss 0.09731855694766922 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 240 loss 0.06219809689702038 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 250 loss 0.1270948540262608 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 260 loss 0.08985298743937759 train acc 16/16 val acc 15/16
+Epoch 33 Batch_num 270 loss 0.33735192637177935 train acc 16/16 val acc 15/16
+Epoch 33 Batch_num 280 loss 0.5514628394073936 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 290 loss 0.5948435458445022 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 300 loss 0.841832834841646 train acc 16/16 val acc 16/16
+Epoch 33 Batch_num 310 loss 0.5625929613831745 train acc 16/16 val acc 15/16
+Epoch 34 Batch_num 0 loss 0.00038395950381864274 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 10 loss 0.5760894197911223 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 20 loss 0.07982951032754876 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 30 loss 0.41778900007188 train acc 16/16 val acc 15/16
+Epoch 34 Batch_num 40 loss 0.6173892486396653 train acc 16/16 val acc 15/16
+Epoch 34 Batch_num 50 loss 0.13704495765352687 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 60 loss 0.38505826161829904 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 70 loss 0.41928886251022596 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 80 loss 0.303663973597764 train acc 16/16 val acc 15/16
+Epoch 34 Batch_num 90 loss 0.520869406269967 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 100 loss 0.18508133009392552 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 110 loss 0.12358926900400846 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 120 loss 0.10956185362304482 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 130 loss 0.38913163307915416 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 140 loss 0.07943739257383081 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 150 loss 0.2900373399788265 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 160 loss 0.46059291948862724 train acc 15/16 val acc 14/16
+Epoch 34 Batch_num 170 loss 0.07005138113249437 train acc 15/16 val acc 16/16
+Epoch 34 Batch_num 180 loss 0.10632990813879306 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 190 loss 0.2271893400799273 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 200 loss 0.22288469076639078 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 210 loss 0.7767316956851882 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 220 loss 0.09048138385233917 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 230 loss 0.22741710148120503 train acc 15/16 val acc 15/16
+Epoch 34 Batch_num 240 loss 0.1604475260390269 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 250 loss 0.39404010488387853 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 260 loss 0.44230219522687836 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 270 loss 0.03349700950553841 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 280 loss 0.1591507410618419 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 290 loss 0.40693659823330947 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 300 loss 0.15581353610836896 train acc 16/16 val acc 16/16
+Epoch 34 Batch_num 310 loss 0.7554407250271927 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 0 loss 0.00016329832624939478 train acc 16/16 val acc 15/16
+Epoch 35 Batch_num 10 loss 0.1059656459549515 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 20 loss 0.357500048729762 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 30 loss 0.253995539748718 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 40 loss 0.10793289071091283 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 50 loss 0.13135799470136106 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 60 loss 0.08586929720019276 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 70 loss 0.3839272002297952 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 80 loss 0.8607325239869681 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 90 loss 0.08856689040613586 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 100 loss 1.2998931636625097 train acc 15/16 val acc 16/16
+Epoch 35 Batch_num 110 loss 0.17325467549042428 train acc 16/16 val acc 15/16
+Epoch 35 Batch_num 120 loss 0.32506598038238166 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 130 loss 0.14737372509177393 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 140 loss 0.9566280412093486 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 150 loss 0.16093106550021502 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 160 loss 0.6505736398206 train acc 16/16 val acc 15/16
+Epoch 35 Batch_num 170 loss 0.09289831061847875 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 180 loss 0.06726227036894844 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 190 loss 0.08881106763440971 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 200 loss 0.5826922661713858 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 210 loss 0.23356861477135826 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 220 loss 0.236308134014583 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 230 loss 0.3170064920706308 train acc 16/16 val acc 14/16
+Epoch 35 Batch_num 240 loss 0.2688445696471881 train acc 15/16 val acc 16/16
+Epoch 35 Batch_num 250 loss 0.49064115940087294 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 260 loss 0.050973143063167525 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 270 loss 0.31460363817478965 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 280 loss 0.9216222693622671 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 290 loss 0.10372346199106364 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 300 loss 0.3115131824770407 train acc 16/16 val acc 16/16
+Epoch 35 Batch_num 310 loss 0.2725640037870162 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 0 loss 0.0001838164057108571 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 10 loss 0.2381874699078599 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 20 loss 0.12503430661333553 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 30 loss 0.35521827857967503 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 40 loss 0.5099738185575755 train acc 15/16 val acc 16/16
+Epoch 36 Batch_num 50 loss 0.2894756222613557 train acc 16/16 val acc 15/16
+Epoch 36 Batch_num 60 loss 0.35868209799551143 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 70 loss 0.9293392604998486 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 80 loss 0.4230651182729895 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 90 loss 0.3971338433060285 train acc 16/16 val acc 15/16
+Epoch 36 Batch_num 100 loss 0.013055022192826948 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 110 loss 0.30937840217125195 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 120 loss 0.3028611862061009 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 130 loss 0.23022330141074288 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 140 loss 0.09405088158799002 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 150 loss 0.026101725753544525 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 160 loss 0.3925697257807837 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 170 loss 0.49951150966666485 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 180 loss 2.1241039414488876 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 190 loss 1.0701887751669548 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 200 loss 0.4562631485362663 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 210 loss 0.5186370862359497 train acc 16/16 val acc 14/16
+Epoch 36 Batch_num 220 loss 0.38901287012973973 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 230 loss 0.13485876006083874 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 240 loss 0.7545926061595232 train acc 16/16 val acc 15/16
+Epoch 36 Batch_num 250 loss 1.1557867875891485 train acc 16/16 val acc 15/16
+Epoch 36 Batch_num 260 loss 0.11848340410042602 train acc 16/16 val acc 15/16
+Epoch 36 Batch_num 270 loss 0.18246666239695158 train acc 16/16 val acc 15/16
+Epoch 36 Batch_num 280 loss 0.9897242013698911 train acc 16/16 val acc 15/16
+Epoch 36 Batch_num 290 loss 0.4550592015795813 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 300 loss 0.45341104119450315 train acc 16/16 val acc 16/16
+Epoch 36 Batch_num 310 loss 0.14051016295628319 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 0 loss 0.01345994377604931 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 10 loss 0.5847746532301179 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 20 loss 0.1759208533551888 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 30 loss 1.5646193354666542 train acc 16/16 val acc 15/16
+Epoch 37 Batch_num 40 loss 0.5361931125568042 train acc 15/16 val acc 16/16
+Epoch 37 Batch_num 50 loss 0.1511873143989017 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 60 loss 0.5836600557379157 train acc 16/16 val acc 15/16
+Epoch 37 Batch_num 70 loss 0.2918264641511908 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 80 loss 1.3523045263526314 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 90 loss 0.3159726665417532 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 100 loss 0.1904489565271194 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 110 loss 0.038341398998618215 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 120 loss 0.5474270128903855 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 130 loss 0.5751919102486851 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 140 loss 0.22468488393629635 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 150 loss 0.1481719739729102 train acc 16/16 val acc 15/16
+Epoch 37 Batch_num 160 loss 0.3586076029631767 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 170 loss 0.34589460862362337 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 180 loss 0.11493158438494044 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 190 loss 0.09990309438341571 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 200 loss 0.06592968961138468 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 210 loss 0.11513808291541588 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 220 loss 0.43321552467684765 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 230 loss 0.4213763040569153 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 240 loss 0.7514226415313602 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 250 loss 0.017598079584883186 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 260 loss 1.3291985087444929 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 270 loss 0.44633697209026385 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 280 loss 0.6041024050393089 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 290 loss 0.01939037174000352 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 300 loss 0.3189403466992302 train acc 16/16 val acc 16/16
+Epoch 37 Batch_num 310 loss 0.7694526617978475 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 0 loss 0.0009135291241550991 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 10 loss 0.6892101131837232 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 20 loss 0.024867554033669137 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 30 loss 0.32146384278045703 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 40 loss 0.0576884290075097 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 50 loss 0.3902501846545633 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 60 loss 0.44438611361003 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 70 loss 0.07864361429711392 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 80 loss 0.16077705382026522 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 90 loss 0.08523394827874631 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 100 loss 0.4632458411802659 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 110 loss 0.05421045791337509 train acc 16/16 val acc 15/16
+Epoch 38 Batch_num 120 loss 0.1320258783795627 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 130 loss 0.08352241077268807 train acc 16/16 val acc 15/16
+Epoch 38 Batch_num 140 loss 0.01799303351450715 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 150 loss 0.2671279443082025 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 160 loss 0.23315282374834723 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 170 loss 1.246193025214081 train acc 16/16 val acc 15/16
+Epoch 38 Batch_num 180 loss 0.46718494625529317 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 190 loss 0.03928327563604772 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 200 loss 0.1293300871997462 train acc 16/16 val acc 15/16
+Epoch 38 Batch_num 210 loss 0.21379354111581872 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 220 loss 0.38416618099670763 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 230 loss 0.14210494053098938 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 240 loss 0.8709414179020222 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 250 loss 1.1305784790071454 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 260 loss 0.08011984644915382 train acc 16/16 val acc 14/16
+Epoch 38 Batch_num 270 loss 0.3331138412002196 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 280 loss 0.24730995734371747 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 290 loss 0.3591090106280104 train acc 16/16 val acc 16/16
+Epoch 38 Batch_num 300 loss 0.01847043180761987 train acc 16/16 val acc 15/16
+Epoch 38 Batch_num 310 loss 0.5431456603433757 train acc 16/16 val acc 15/16
+Epoch 39 Batch_num 0 loss 3.4453372262932547e-06 train acc 16/16 val acc 15/16
+Epoch 39 Batch_num 10 loss 0.17996780390298184 train acc 16/16 val acc 15/16
+Epoch 39 Batch_num 20 loss 0.041507743511746575 train acc 16/16 val acc 15/16
+Epoch 39 Batch_num 30 loss 0.5491514815638479 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 40 loss 1.2933046118524718 train acc 16/16 val acc 15/16
+Epoch 39 Batch_num 50 loss 0.350686405088279 train acc 16/16 val acc 14/16
+Epoch 39 Batch_num 60 loss 0.18465262010137495 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 70 loss 0.6085122009477111 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 80 loss 0.2678159540751643 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 90 loss 0.5239052677019888 train acc 16/16 val acc 14/16
+Epoch 39 Batch_num 100 loss 0.19010028064164575 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 110 loss 0.17956837416959814 train acc 16/16 val acc 15/16
+Epoch 39 Batch_num 120 loss 0.07282970157329427 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 130 loss 0.7310066369424597 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 140 loss 0.24095448733182834 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 150 loss 0.14899745631604483 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 160 loss 0.05691805081979051 train acc 16/16 val acc 15/16
+Epoch 39 Batch_num 170 loss 0.33409244079635597 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 180 loss 0.18390956638464995 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 190 loss 0.18779778986746457 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 200 loss 0.13359449304975668 train acc 16/16 val acc 15/16
+Epoch 39 Batch_num 210 loss 0.21610560385715133 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 220 loss 0.23912670442583844 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 230 loss 0.19487247275656355 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 240 loss 0.1361498212186349 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 250 loss 0.23001175956383255 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 260 loss 0.3161463894060889 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 270 loss 0.16180426260032396 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 280 loss 0.28007808686485586 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 290 loss 0.3280307012518812 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 300 loss 0.14272013420402752 train acc 16/16 val acc 16/16
+Epoch 39 Batch_num 310 loss 0.04356899529205549 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 0 loss 1.5328293114791336e-06 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 10 loss 0.45251221667440517 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 20 loss 0.5982260444687175 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 30 loss 0.171304328143144 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 40 loss 0.1712491953745045 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 50 loss 0.30942776435563846 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 60 loss 0.10630641603191138 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 70 loss 0.2302487136225484 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 80 loss 0.023116810181281366 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 90 loss 0.2764703497033064 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 100 loss 0.08510017904021039 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 110 loss 0.3335066897131342 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 120 loss 0.011569674017754106 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 130 loss 0.5989031331121014 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 140 loss 0.10339172244416012 train acc 15/16 val acc 16/16
+Epoch 40 Batch_num 150 loss 0.055134117391766824 train acc 16/16 val acc 15/16
+Epoch 40 Batch_num 160 loss 0.10308798924336815 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 170 loss 0.03774165573331428 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 180 loss 0.059574761817573985 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 190 loss 0.15779537522353965 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 200 loss 0.3001340531528826 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 210 loss 1.0256901535156993 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 220 loss 0.17149263460678782 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 230 loss 0.14048333501708588 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 240 loss 0.18755296087997814 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 250 loss 0.09726240490730526 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 260 loss 0.17259536730456831 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 270 loss 0.3771158070173658 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 280 loss 0.13782436046392532 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 290 loss 0.19599239694361967 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 300 loss 0.8131956877092154 train acc 16/16 val acc 16/16
+Epoch 40 Batch_num 310 loss 0.25699761650303515 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 0 loss 1.3114508625955423e-05 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 10 loss 0.8169292626419528 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 20 loss 0.5628865318461073 train acc 16/16 val acc 15/16
+Epoch 41 Batch_num 30 loss 0.31394070242185446 train acc 16/16 val acc 15/16
+Epoch 41 Batch_num 40 loss 0.12618243393946998 train acc 16/16 val acc 15/16
+Epoch 41 Batch_num 50 loss 0.5371082288440888 train acc 16/16 val acc 15/16
+Epoch 41 Batch_num 60 loss 0.11178274854419779 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 70 loss 0.583999673427092 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 80 loss 0.6866107896842674 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 90 loss 0.5550717934661011 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 100 loss 0.029826276990548073 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 110 loss 0.3908812993725689 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 120 loss 0.08691970504643887 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 130 loss 0.6110368801689436 train acc 16/16 val acc 15/16
+Epoch 41 Batch_num 140 loss 0.19165608136127577 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 150 loss 0.060357871618981096 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 160 loss 0.4307656670943916 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 170 loss 0.2942215229257952 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 180 loss 1.5524880814546675 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 190 loss 0.18825531429514064 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 200 loss 0.7101768940898969 train acc 16/16 val acc 15/16
+Epoch 41 Batch_num 210 loss 0.16261676653722412 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 220 loss 0.7730184700439324 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 230 loss 0.48620016106250175 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 240 loss 0.2588192671846573 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 250 loss 0.1044191143699284 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 260 loss 0.0884731619871113 train acc 16/16 val acc 15/16
+Epoch 41 Batch_num 270 loss 0.008984111822254559 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 280 loss 0.16638134429184356 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 290 loss 0.35828731010874676 train acc 16/16 val acc 15/16
+Epoch 41 Batch_num 300 loss 0.13293198454313465 train acc 16/16 val acc 16/16
+Epoch 41 Batch_num 310 loss 0.11125922573384961 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 0 loss 8.324223007005749e-05 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 10 loss 0.1789410840208091 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 20 loss 0.36746134996224705 train acc 16/16 val acc 15/16
+Epoch 42 Batch_num 30 loss 0.36276888129799384 train acc 16/16 val acc 15/16
+Epoch 42 Batch_num 40 loss 0.04342259503066265 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 50 loss 0.34493183697845975 train acc 16/16 val acc 15/16
+Epoch 42 Batch_num 60 loss 0.1421079088918073 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 70 loss 0.7173465987982187 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 80 loss 0.199637187911018 train acc 16/16 val acc 15/16
+Epoch 42 Batch_num 90 loss 0.13440696347768333 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 100 loss 0.07922429564648292 train acc 15/16 val acc 16/16
+Epoch 42 Batch_num 110 loss 0.011050406962605175 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 120 loss 0.0337578719553987 train acc 16/16 val acc 15/16
+Epoch 42 Batch_num 130 loss 0.4945453043176928 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 140 loss 0.020692735372746685 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 150 loss 0.307142517015232 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 160 loss 0.22185884952868634 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 170 loss 0.5763371006426576 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 180 loss 0.021176229115554723 train acc 15/16 val acc 16/16
+Epoch 42 Batch_num 190 loss 0.3761842465772571 train acc 16/16 val acc 15/16
+Epoch 42 Batch_num 200 loss 0.25684453067002205 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 210 loss 0.27180084559460127 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 220 loss 0.34201288104499744 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 230 loss 0.19658062111738211 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 240 loss 0.048800394642027456 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 250 loss 0.10517585254866557 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 260 loss 0.37310713096437914 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 270 loss 0.07268161849042332 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 280 loss 0.05503763815991536 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 290 loss 0.36191850560933075 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 300 loss 0.1771131461163555 train acc 16/16 val acc 16/16
+Epoch 42 Batch_num 310 loss 0.21270891523006058 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 0 loss 2.6497909689782162e-05 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 10 loss 0.9626881749803851 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 20 loss 0.25900390134032153 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 30 loss 0.03966720212482483 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 40 loss 0.039677591303400206 train acc 16/16 val acc 15/16
+Epoch 43 Batch_num 50 loss 0.025527048659567897 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 60 loss 0.2551614014540593 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 70 loss 0.6684699679671973 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 80 loss 0.36080317699617576 train acc 16/16 val acc 15/16
+Epoch 43 Batch_num 90 loss 0.850839765123776 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 100 loss 0.3696686496246714 train acc 16/16 val acc 15/16
+Epoch 43 Batch_num 110 loss 0.20127746188716067 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 120 loss 0.15148439975911704 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 130 loss 0.15680967850290234 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 140 loss 0.016638714633801288 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 150 loss 0.2997951468175437 train acc 16/16 val acc 15/16
+Epoch 43 Batch_num 160 loss 0.2890873198871351 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 170 loss 0.1447354862106628 train acc 16/16 val acc 15/16
+Epoch 43 Batch_num 180 loss 0.17704825696747273 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 190 loss 0.4225304365026407 train acc 16/16 val acc 15/16
+Epoch 43 Batch_num 200 loss 0.051669043007142146 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 210 loss 0.2703217114902955 train acc 16/16 val acc 15/16
+Epoch 43 Batch_num 220 loss 0.32523537437824424 train acc 16/16 val acc 15/16
+Epoch 43 Batch_num 230 loss 0.15808746263383366 train acc 16/16 val acc 15/16
+Epoch 43 Batch_num 240 loss 0.25080821793141456 train acc 16/16 val acc 15/16
+Epoch 43 Batch_num 250 loss 0.03513303770227261 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 260 loss 0.4177686123271377 train acc 16/16 val acc 15/16
+Epoch 43 Batch_num 270 loss 0.18530208925467284 train acc 16/16 val acc 14/16
+Epoch 43 Batch_num 280 loss 0.05033008288265406 train acc 16/16 val acc 16/16
+Epoch 43 Batch_num 290 loss 0.42169994083079365 train acc 16/16 val acc 15/16
+Epoch 43 Batch_num 300 loss 0.18441145884029198 train acc 16/16 val acc 15/16
+Epoch 43 Batch_num 310 loss 0.7454130092948268 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 0 loss 2.11162682206556e-06 train acc 16/16 val acc 16/16
+Epoch 44 Batch_num 10 loss 0.17610598534333916 train acc 16/16 val acc 16/16
+Epoch 44 Batch_num 20 loss 0.1877182969244119 train acc 16/16 val acc 16/16
+Epoch 44 Batch_num 30 loss 0.1146067842778909 train acc 16/16 val acc 16/16
+Epoch 44 Batch_num 40 loss 0.6152457109676126 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 50 loss 0.24896985005524097 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 60 loss 0.19038188892537344 train acc 16/16 val acc 16/16
+Epoch 44 Batch_num 70 loss 0.25998334813655966 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 80 loss 0.18794421591980273 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 90 loss 0.13147687068650488 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 100 loss 0.08933570164315807 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 110 loss 0.3996472704273198 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 120 loss 0.2721243493017056 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 130 loss 0.019362649823686406 train acc 16/16 val acc 16/16
+Epoch 44 Batch_num 140 loss 0.0805572346881635 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 150 loss 0.18595534767782212 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 160 loss 0.5392822523831347 train acc 16/16 val acc 16/16
+Epoch 44 Batch_num 170 loss 0.27289506055353774 train acc 16/16 val acc 16/16
+Epoch 44 Batch_num 180 loss 0.7503375505431648 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 190 loss 0.2368938881510128 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 200 loss 0.08386618068897889 train acc 16/16 val acc 16/16
+Epoch 44 Batch_num 210 loss 0.30200447177105116 train acc 16/16 val acc 16/16
+Epoch 44 Batch_num 220 loss 0.01903567150549057 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 230 loss 0.0904772110191111 train acc 16/16 val acc 16/16
+Epoch 44 Batch_num 240 loss 0.003396586507372401 train acc 16/16 val acc 16/16
+Epoch 44 Batch_num 250 loss 0.10714431589856332 train acc 16/16 val acc 16/16
+Epoch 44 Batch_num 260 loss 0.03812303478547985 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 270 loss 0.29353777464947806 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 280 loss 0.1220818467079125 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 290 loss 0.6673184286075743 train acc 16/16 val acc 15/16
+Epoch 44 Batch_num 300 loss 0.2171697386193252 train acc 16/16 val acc 16/16
+Epoch 44 Batch_num 310 loss 0.14665231074570548 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 0 loss 0.00202286418336195 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 10 loss 1.1707928025544492 train acc 15/16 val acc 15/16
+Epoch 45 Batch_num 20 loss 0.5508182665191197 train acc 16/16 val acc 15/16
+Epoch 45 Batch_num 30 loss 0.3225149273956097 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 40 loss 0.8119232588449192 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 50 loss 0.2741832553842415 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 60 loss 0.5184104734706239 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 70 loss 0.41321304755862376 train acc 16/16 val acc 15/16
+Epoch 45 Batch_num 80 loss 0.2994075975881662 train acc 16/16 val acc 15/16
+Epoch 45 Batch_num 90 loss 0.010665443479715875 train acc 16/16 val acc 15/16
+Epoch 45 Batch_num 100 loss 0.11660231662358767 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 110 loss 0.012644368588371702 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 120 loss 0.12787806109463085 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 130 loss 0.5201134587607102 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 140 loss 0.019650678560777846 train acc 16/16 val acc 15/16
+Epoch 45 Batch_num 150 loss 0.6127398293318576 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 160 loss 0.08189826740171957 train acc 16/16 val acc 15/16
+Epoch 45 Batch_num 170 loss 0.1806867217740975 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 180 loss 0.13385616396459787 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 190 loss 0.3932176323965839 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 200 loss 0.5460858070677226 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 210 loss 0.3530726799250834 train acc 16/16 val acc 15/16
+Epoch 45 Batch_num 220 loss 0.8666033599195242 train acc 16/16 val acc 15/16
+Epoch 45 Batch_num 230 loss 0.4761512186106118 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 240 loss 0.1272674714656412 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 250 loss 0.6460898715629859 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 260 loss 0.5423824503772421 train acc 16/16 val acc 16/16
+Epoch 45 Batch_num 270 loss 0.42278990354174456 train acc 16/16 val acc 15/16
+Epoch 45 Batch_num 280 loss 0.3939640811655269 train acc 16/16 val acc 15/16
+Epoch 45 Batch_num 290 loss 0.02577314073920492 train acc 16/16 val acc 14/16
+Epoch 45 Batch_num 300 loss 0.25392994598283836 train acc 16/16 val acc 15/16
+Epoch 45 Batch_num 310 loss 0.0809855727284689 train acc 16/16 val acc 15/16
+Epoch 46 Batch_num 0 loss 0.0002440499217635228 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 10 loss 0.6032259735673804 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 20 loss 0.11225514603517217 train acc 16/16 val acc 15/16
+Epoch 46 Batch_num 30 loss 0.037417907050323385 train acc 16/16 val acc 15/16
+Epoch 46 Batch_num 40 loss 0.07097715765385515 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 50 loss 0.1554635168701235 train acc 16/16 val acc 15/16
+Epoch 46 Batch_num 60 loss 0.040010772915164805 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 70 loss 0.8935960983063123 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 80 loss 0.1192804669930192 train acc 16/16 val acc 15/16
+Epoch 46 Batch_num 90 loss 0.058417077626985725 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 100 loss 0.22220567473878666 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 110 loss 0.04889062367138963 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 120 loss 0.08372702167101567 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 130 loss 0.1196892170277209 train acc 16/16 val acc 15/16
+Epoch 46 Batch_num 140 loss 0.14110165990459178 train acc 16/16 val acc 15/16
+Epoch 46 Batch_num 150 loss 0.07571024233475543 train acc 16/16 val acc 15/16
+Epoch 46 Batch_num 160 loss 0.10501778273408618 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 170 loss 0.5205927768438866 train acc 16/16 val acc 15/16
+Epoch 46 Batch_num 180 loss 0.23075109717281317 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 190 loss 0.15267544350081452 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 200 loss 0.05600202276704935 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 210 loss 0.17432014367460796 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 220 loss 0.11737469078370266 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 230 loss 0.49215654403047127 train acc 15/16 val acc 16/16
+Epoch 46 Batch_num 240 loss 0.19692737630195145 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 250 loss 0.07200214882644362 train acc 16/16 val acc 15/16
+Epoch 46 Batch_num 260 loss 0.21034658899207292 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 270 loss 0.016149763431651365 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 280 loss 0.20703436189023833 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 290 loss 1.0791511150734303 train acc 16/16 val acc 16/16
+Epoch 46 Batch_num 300 loss 0.15784333804411033 train acc 16/16 val acc 15/16
+Epoch 46 Batch_num 310 loss 0.19049492444504176 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 0 loss 0.00010014609104402883 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 10 loss 0.10222138178228246 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 20 loss 0.13013363545606177 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 30 loss 0.7727784622452686 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 40 loss 0.13565451798129813 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 50 loss 0.17886628152791548 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 60 loss 0.1277120791376497 train acc 16/16 val acc 14/16
+Epoch 47 Batch_num 70 loss 0.28372870200430367 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 80 loss 0.10319051008003038 train acc 16/16 val acc 15/16
+Epoch 47 Batch_num 90 loss 0.2223532191857608 train acc 16/16 val acc 15/16
+Epoch 47 Batch_num 100 loss 0.10368082021273928 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 110 loss 0.019531346861214494 train acc 16/16 val acc 15/16
+Epoch 47 Batch_num 120 loss 0.025072898897341545 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 130 loss 0.01684199994381952 train acc 16/16 val acc 15/16
+Epoch 47 Batch_num 140 loss 0.1884291763144269 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 150 loss 0.15167240311497932 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 160 loss 0.08348910244139673 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 170 loss 0.16569295398567085 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 180 loss 0.02480822401370064 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 190 loss 0.08461006169563656 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 200 loss 0.020472224913842485 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 210 loss 0.10020648653981551 train acc 16/16 val acc 14/16
+Epoch 47 Batch_num 220 loss 0.2621878810734123 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 230 loss 0.012528117888455315 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 240 loss 0.07630997404269668 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 250 loss 0.025395989968793886 train acc 16/16 val acc 15/16
+Epoch 47 Batch_num 260 loss 0.729843921600021 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 270 loss 0.011817791919952136 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 280 loss 0.10485257642870649 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 290 loss 0.16689713861577454 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 300 loss 0.04875970692751236 train acc 16/16 val acc 16/16
+Epoch 47 Batch_num 310 loss 0.1051227669807216 train acc 15/16 val acc 16/16
+Epoch 48 Batch_num 0 loss 1.5236759320913507e-06 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 10 loss 0.4402281409548535 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 20 loss 0.004505445190168822 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 30 loss 0.08416502419145871 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 40 loss 0.5121017788642087 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 50 loss 0.155027070806943 train acc 16/16 val acc 15/16
+Epoch 48 Batch_num 60 loss 0.1566175266444476 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 70 loss 0.019186082717780162 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 80 loss 0.16839361960567278 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 90 loss 0.3539448887904362 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 100 loss 0.053039299592639866 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 110 loss 0.013467041441446836 train acc 16/16 val acc 15/16
+Epoch 48 Batch_num 120 loss 0.2219667931173921 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 130 loss 0.22703260728123992 train acc 16/16 val acc 15/16
+Epoch 48 Batch_num 140 loss 0.1719165576612372 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 150 loss 0.017814578622187494 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 160 loss 0.010128035062221818 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 170 loss 0.15474373174078088 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 180 loss 0.06468712966428036 train acc 16/16 val acc 15/16
+Epoch 48 Batch_num 190 loss 0.044141831735988346 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 200 loss 0.010841981791705813 train acc 16/16 val acc 15/16
+Epoch 48 Batch_num 210 loss 0.10192151851197873 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 220 loss 0.06802869567750874 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 230 loss 0.1518102416368221 train acc 16/16 val acc 15/16
+Epoch 48 Batch_num 240 loss 0.12318974950851713 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 250 loss 0.03402608890619718 train acc 16/16 val acc 15/16
+Epoch 48 Batch_num 260 loss 0.049381913075757344 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 270 loss 0.011098183190541677 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 280 loss 0.0592777756089769 train acc 16/16 val acc 16/16
+Epoch 48 Batch_num 290 loss 0.42029229184768413 train acc 16/16 val acc 15/16
+Epoch 48 Batch_num 300 loss 0.37526015339367336 train acc 15/16 val acc 16/16
+Epoch 48 Batch_num 310 loss 0.138687740305372 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 0 loss 0.0009176110403124049 train acc 16/16 val acc 15/16
+Epoch 49 Batch_num 10 loss 0.19676640184830319 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 20 loss 0.013519798379573289 train acc 16/16 val acc 15/16
+Epoch 49 Batch_num 30 loss 0.3660539267206372 train acc 15/16 val acc 16/16
+Epoch 49 Batch_num 40 loss 0.022286440522768347 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 50 loss 0.0712550656019213 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 60 loss 0.9299575762528394 train acc 16/16 val acc 15/16
+Epoch 49 Batch_num 70 loss 0.4134211129637755 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 80 loss 0.45322222021916425 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 90 loss 0.22595531796146862 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 100 loss 0.16813176596067297 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 110 loss 0.01977908089631064 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 120 loss 0.1486377861306658 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 130 loss 0.047837321447885106 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 140 loss 0.5387369398852986 train acc 16/16 val acc 15/16
+Epoch 49 Batch_num 150 loss 0.31803115204135113 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 160 loss 0.17580798932688202 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 170 loss 0.21182286238863657 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 180 loss 0.09947363347741522 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 190 loss 0.4822758340669231 train acc 16/16 val acc 15/16
+Epoch 49 Batch_num 200 loss 0.2600442647697451 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 210 loss 0.22420361277574608 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 220 loss 1.1232378386071553 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 230 loss 0.3956054136076107 train acc 16/16 val acc 15/16
+Epoch 49 Batch_num 240 loss 0.17718605108131502 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 250 loss 0.40548157560232995 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 260 loss 0.07783017468476094 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 270 loss 0.004077875470101189 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 280 loss 0.18973293065565827 train acc 16/16 val acc 15/16
+Epoch 49 Batch_num 290 loss 0.3931463609500788 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 300 loss 0.44849280312552153 train acc 16/16 val acc 16/16
+Epoch 49 Batch_num 310 loss 0.4021273764637928 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 0 loss 0.0026867277340463236 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 10 loss 0.3178423658750207 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 20 loss 0.2024730704772824 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 30 loss 0.06700857688916412 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 40 loss 0.5673478383911321 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 50 loss 0.22073844362773454 train acc 16/16 val acc 15/16
+Epoch 50 Batch_num 60 loss 0.18693655945440266 train acc 15/16 val acc 15/16
+Epoch 50 Batch_num 70 loss 1.0610214913614873 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 80 loss 0.13883557624127235 train acc 16/16 val acc 15/16
+Epoch 50 Batch_num 90 loss 0.43632732543060415 train acc 15/16 val acc 16/16
+Epoch 50 Batch_num 100 loss 0.3448993774227057 train acc 16/16 val acc 14/16
+Epoch 50 Batch_num 110 loss 0.05840717344457613 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 120 loss 0.4851384554910201 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 130 loss 0.3181581376892433 train acc 16/16 val acc 15/16
+Epoch 50 Batch_num 140 loss 0.014302948036752805 train acc 16/16 val acc 15/16
+Epoch 50 Batch_num 150 loss 0.4405215208708961 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 160 loss 0.12335218176305707 train acc 16/16 val acc 15/16
+Epoch 50 Batch_num 170 loss 0.41766872308596076 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 180 loss 0.01648756751428382 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 190 loss 0.04197776441129522 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 200 loss 0.20024180134604352 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 210 loss 0.43934028486321475 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 220 loss 0.5086471499711733 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 230 loss 0.013251892089644779 train acc 16/16 val acc 15/16
+Epoch 50 Batch_num 240 loss 0.5218948904145905 train acc 16/16 val acc 15/16
+Epoch 50 Batch_num 250 loss 0.00481706004733351 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 260 loss 0.055850871343968156 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 270 loss 0.0013236594108159139 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 280 loss 0.10920852556966476 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 290 loss 0.12441834905268334 train acc 16/16 val acc 16/16
+Epoch 50 Batch_num 300 loss 0.008704461722103263 train acc 16/16 val acc 15/16
+Epoch 50 Batch_num 310 loss 0.1383870776613536 train acc 16/16 val acc 16/16

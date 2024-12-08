@@ -101,8 +101,8 @@ def make_mnist(start, stop):
     return X, ys
 
 
-def default_log_fn(epoch, batch_num,total_loss, correct, total, losses, model):
-    log_message = f"Epoch {epoch} Batch_num {batch_num} loss {total_loss} train acc {correct}/{total}"
+def default_log_fn(epoch, batch_num, total_loss, train_correct, val_correct, total, losses, model):
+    log_message = f"Epoch {epoch} Batch_num {batch_num} loss {total_loss} train acc {train_correct}/{total} val acc {val_correct}/{total}"
     print(log_message)
     with open("mnist.txt", "a") as myfile:
         myfile.write(log_message + "\n")
@@ -158,9 +158,28 @@ class ImageTrain:
 
                 if batch_num % 10 == 0:
                     model.eval()
-                    # Evaluate on 5 held-out batches
-
-                    correct = 0
+                    # Evaluate every 10 batches
+                    train_correct = 0
+                    for train_example_num in range(0, 1 * BATCH, BATCH):
+                        y = minitorch.tensor(
+                            y_train[train_example_num : train_example_num + BATCH],
+                            backend=BACKEND,
+                        )
+                        x = minitorch.tensor(
+                            X_train[train_example_num : train_example_num + BATCH],
+                            backend=BACKEND,
+                        )
+                        out = model.forward(x.view(BATCH, 1, H, W)).view(BATCH, C)
+                        for i in range(BATCH):
+                            m = -1000
+                            ind = -1
+                            for j in range(C):
+                                if out[i, j] > m:
+                                    ind = j
+                                    m = out[i, j]
+                            if y[i, ind] == 1.0:
+                                train_correct += 1
+                    val_correct = 0
                     for val_example_num in range(0, 1 * BATCH, BATCH):
                         y = minitorch.tensor(
                             y_val[val_example_num : val_example_num + BATCH],
@@ -179,8 +198,8 @@ class ImageTrain:
                                     ind = j
                                     m = out[i, j]
                             if y[i, ind] == 1.0:
-                                correct += 1
-                    log_fn(epoch, batch_num, total_loss, correct, BATCH, losses, model)
+                                val_correct += 1
+                    log_fn(epoch, batch_num, total_loss, train_correct, val_correct, BATCH, losses, model)
 
                     total_loss = 0.0
                     model.train()
@@ -188,4 +207,4 @@ class ImageTrain:
 
 if __name__ == "__main__":
     data_train, data_val = (make_mnist(0, 5000), make_mnist(10000, 10500))
-    ImageTrain().train(data_train, data_val, learning_rate=0.01, max_epochs=25)
+    ImageTrain().train(data_train, data_val, learning_rate=0.01, max_epochs=50)
