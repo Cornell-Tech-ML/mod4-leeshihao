@@ -236,7 +236,8 @@ def tensor_zip(
     ) -> None:
         # TODO: Implement for Task 3.1.
         # Check if out, a, b are stride-aligned to avoid indexing
-        if (len(out_strides) == len(a_strides) 
+        if (
+            len(out_strides) == len(a_strides)
             and len(out_strides) == len(b_strides)
             and np.all((out_strides == a_strides))
             and np.all((out_strides == b_strides))
