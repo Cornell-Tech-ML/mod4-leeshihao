@@ -95,7 +95,8 @@ class Max(Function):
         max_vals = max_reduce(input, int(dim.item()))
         return max_vals
 
-    def backward(self, ctx: Context, grad_output: Tensor) -> Tuple[Tensor, float]:
+    @staticmethod
+    def backward(ctx: Context, grad_output: Tensor) -> Tuple[Tensor, float]:
         """Backwards is the same as argmax"""
         input, dim = ctx.saved_values
         dim = int(dim.item())
